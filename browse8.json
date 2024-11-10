@@ -1161,7 +1161,7 @@
           }
         ]
       },
-      {
+        {
             "title": "RaySist's Favoritter",
             "items": [
               {
@@ -1198,6 +1198,12 @@
                 "id": 1396,
                 "title": "Breaking Bad",
                 "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+                "type": "series"
+              },
+              {
+                "id": 60059,
+                "title": "Better Call Saul",
+                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
                 "type": "series"
               },
               {
