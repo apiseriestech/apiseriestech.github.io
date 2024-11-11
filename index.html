@@ -1,14 +1,60 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="da">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>api.seriestechmovies.icu</title>
+  <!-- Inkluder Font Awesome for ikoner -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1 style="display: black;">Series.tech Movies API</h1> <!-- Hidden heading for SEO or accessibility if needed -->
-  <h1 style="display: black;">Her er lidt tomt hva? Dette er ikke en hjemmeside, api hosting!</h1> <!-- Hidden heading for SEO or accessibility if needed -->
+  <div class="container">
+    <header>
+      <h1 class="title">Series.tech Movies API</h1>
+      <p class="subtitle">Velkommen! Dette er en API-hosting side. Der er gratis at bruge, du kan få adgang under API Endpoints.</p>
+    </header>
+
+    <section class="links">
+      <h2 class="dropdown-toggle">API Endpoints <span class="arrow fas fa-arrow-down"></span></h2>
+      <div class="dropdown-content show">
+        <ul>
+          <li><a href="https://apiseriestech.github.io/browse.json" target="_blank">Browse JSON 1 - Forside 1</a></li>
+          <li><a href="https://apiseriestech.github.io/browse2.json" target="_blank">Browse JSON 2 - Forside 2</a></li>
+          <li><a href="https://apiseriestech.github.io/browse3.json" target="_blank">Browse JSON 3 - Forside 3</a></li>
+          <li><a href="https://apiseriestech.github.io/browse4.json" target="_blank">Browse JSON 4 - Forside 4</a></li>
+          <li><a href="https://apiseriestech.github.io/browse5.json" target="_blank">Browse JSON 5 - Forside 5</a></li>
+          <li><a href="https://apiseriestech.github.io/browse6.json" target="_blank">Browse JSON 6 - Forside 6</a></li>
+          <li><a href="https://apiseriestech.github.io/browse7.json" target="_blank">Browse JSON 7 - Forside 7</a></li>
+          <li><a href="https://apiseriestech.github.io/browse8.json" target="_blank">Browse JSON 8 - Forside 8</a></li>
+          <li><a href="https://apiseriestech.github.io/browse9.json" target="_blank">Browse JSON 9 - Forside 9</a></li>
+          <li><a href="https://apiseriestech.github.io/browse10.json" target="_blank">Browse JSON 10 - Forside 10</a></li>
+          <li><a href="https://apiseriestech.github.io/movie.json" target="_blank">Movie JSON - Filmside</a></li>
+          <li><a href="https://apiseriestech.github.io/series.json" target="_blank">Series JSON - Serier Side</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Tutorial/Info Tekst Sektion -->
+    <section class="tutorial-info">
+      <h2>Hvordan man bruger API'et</h2>
+      <p>
+        Denne API giver endpoints til at browse film og serier. Du kan hente data fra forskellige sider og bruge dem i dine projekter. Endpoints er gratis at bruge, og du kan få adgang til koden direkte fra de medfølgende links.
+      </p>
+      <p>
+        Hver JSON-fil svarer til en anden side med film- eller serie-data. Klik på et af API-endpoint-linkene ovenfor for at få adgang til JSON-svaret. Svaret indeholder detaljerede oplysninger om det tilgængelige indhold, som du kan bruge til at integrere i din app eller hjemmeside.
+      </p>
+      <p>
+        Hvis du bruger rypr/fossa.tv designet, er du godt kørende ved blot at sætte API-URL'en ind i din .env-fil:
+      </p>
+      <pre><code>VITE_APP_API="https://apiseriestech.github.io/"</code></pre>
+      <p>
+        For mere avanceret brug skal du finde ud af det selv.
+      </p>
+    </section>
+  </div>
+
   <script src="script.js"></script>
 </body>
 </html>
