@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JSON Search Results</title>
+</head>
+<body>
+
+  <script>
+    // Function to fetch data from the external API based on the search query
+    async function fetchResults(query) {
+      const apiUrl = `https://muvsrc.ru/search?q=${encodeURIComponent(query)}`;
+
+      try {
+        // Fetch data from the API
+        const response = await fetch(apiUrl);
+
+        // If the response is not ok, throw an error
+        if (!response.ok) {
+          throw new Error('Error fetching data from the external API');
+        }
+
+        // Parse the JSON response
+        const data = await response.json();
+
+        // Display the raw JSON data on the page
+        displayJsonData(data);
+      } catch (error) {
+        console.error(error);
+      }
+    }
+
+    // Function to display the raw JSON data
+    function displayJsonData(data) {
+      document.body.textContent = JSON.stringify(data, null, 2); // Pretty print the JSON
+    }
+
+    // Get the query from the URL parameters and perform the search
+    function checkUrlQuery() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const query = urlParams.get('q');
+      
+      if (query) {
+        fetchResults(query);
+      }
+    }
+
+    // On page load, check for query parameter and perform the search if present
+    window.onload = checkUrlQuery;
+  </script>
+
+</body>
+</html>
