@@ -1,104 +1,141 @@
 {
-  "success": true,
-  "data": {
-    "hero": {
-      "id": 48748,
-      "type": "movie",
-      "title": "Klovn - The Movie",
-      "description": "Frank finder ved et tilfælde ud af, at Mia er gravid, og at hun har undladt og fortælle ham det, da hun ikke mener at han har farpotentiale. Derudover skal de tage sig af Mias nevø, men Franks opmærksomhed er rettet mod en forestående kanotur med vennen Casper. Da Frank er skyld i et mindre uheld med Bo, må en meget skuffet Mia erkende, at Frank bestemt ikke evner at tage vare på andre end sig selv. Derfor vælger Frank i desperation at kidnappe Bo med på kanoturen, til Caspers store frustration. Frank vil nemlig vise Mia, at han har farpotentiale. Turen udvikler sig selvfølgelig katastrofalt og får fatale følger for alle tre. Men i dette virvar af kaos bliver der knyttet bånd mellem Bo og Frank, der begge lære noget under denne",
-      "images": {
-        "logo": "https://image.tmdb.org/t/p/original/hLUI3KDZEf9fgMmNjsMsqYh8Bgn.png",
-        "backdrop": "https://image.tmdb.org/t/p/original/y6oQ4Bx3jaQauXWj4G5fbIIIiYD.jpg"
-      }
-    },
-    "collections": [
+    "success": true,
+    "data": {
+      "hero": {
+        "id": 1125607,
+        "type": "movie",
+        "title": "Jagtsæson 2: I medgang og modgang",
+        "description": "Jagtsæson 2: I medgang og modgang er, som titlen afslører, en efterfølger til den populære, danske komedie Jagtsæson fra 2019. I den nye to'er møder vi endnu gang de tre skuespillere Stephania Potalivo, Mille Dinesen og Lærke Winther som de tre veninder, Bella, Eva og Marlene. For Eva kører tingene ikke på skinner, og hun har mistet sit job. Marlene står i den modsatte situation og er blevet forfremmet, mens Bella skal giftes med Evas eksmand. Ikke så fedt (for Eva). Dog påtager hun sig opgaven at arrangere Bellas polterabend, men det bliver slet ikke, som Bella havde drømt om. Derfor må Eva nu kæmpe for at holde sammen på både karriere, kærlighed og venskab.",
+        "images": {
+          "logo": "https://images-0.rakuten.tv/storage/global-movie/translation/title-treatment/a010a699-c8c6-49a8-83b5-3f027459175a-width410-quality90.png",
+          "backdrop": "https://res.cloudinary.com/dllgmrxds/image/upload/s--SQTDd6Z4--/c_scale%2Cw_1200/c_crop%2Cg_auto%2Ch_630%2Cw_1200/f_auto/q_auto/v1/migrate/bdcd92cb71df711e1862a214ab427b0e"
+        }
+      },
+      "collections": [
+          {
+              "title": "Kommer snart til Premium",
+              "items": [
+                {
+                  "id": 367,
+                  "title": "Klovn",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0HKUsKAWzHwzJZxXhTSx4LEydk.jpg",
+                  "type": "series"
+                },
+                {
+                  "id": 655713,
+                  "title": "Klovn the Final",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGjKqZOJftzGZQCGuHRr37zBz8U.jpg",
+                  "type": "movie"
+                },
+                {
+                  "id": 1546,
+                  "title": "Frikvarter",
+                  "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FF0558937261E0953E8AC99DB03E3FCAAFFCB6D1992A6A2DA092BC688618554C/scale?width=506&aspectRatio=2.00&format=webp",
+                  "type": "series"
+                },
+                {
+                  "id": 1570,
+                  "title": "Tintins Eventyr",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x269Sp8n4YOIATxm1y9cpXwj4Ah.jpg",
+                  "type": "series"
+                },
+                {
+                  "id": 104341,
+                  "title": "Kongerne af Marielyst",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2khziVrJmwNmCURou8Tc14wdY0q.jpg",
+                  "type": "series"
+                },
+                {
+                  "id": 104342,
+                  "title": "Kongerne af Rømø",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW5U0TQeO1WhFCZ5wTOuWR90ZsB.jpg",
+                  "type": "series"
+                },
+                {
+                  "id": 257030,
+                  "title": "Kongerne af Svendborg",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ds8VqDnL7D9bqewCTUD6Pg31svT.jpg",
+                  "type": "series"
+                },
+                {
+                  "id": 74824,
+                  "title": "Klassen",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oifIDVNGEACjdTIzLATvVv2wmYr.jpg",
+                  "type": "series"
+                }
+          ]
+        },
         {
-            "title": "Kommer snart til Premium",
-            "items": [
-              {
-                "id": 367,
-                "title": "Klovn",
-                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0HKUsKAWzHwzJZxXhTSx4LEydk.jpg",
-                "type": "series"
-              },
-              {
-                "id": 655713,
-                "title": "Klovn the Final",
-                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGjKqZOJftzGZQCGuHRr37zBz8U.jpg",
-                "type": "movie"
-              },
-              {
-                "id": 1546,
-                "title": "Frikvarter",
-                "poster": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FF0558937261E0953E8AC99DB03E3FCAAFFCB6D1992A6A2DA092BC688618554C/scale?width=506&aspectRatio=2.00&format=webp",
-                "type": "series"
-              },
-              {
-                "id": 1570,
-                "title": "Tintins Eventyr",
-                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x269Sp8n4YOIATxm1y9cpXwj4Ah.jpg",
-                "type": "series"
-              },
-              {
-                "id": 104341,
-                "title": "Kongerne af Marielyst",
-                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2khziVrJmwNmCURou8Tc14wdY0q.jpg",
-                "type": "series"
-              },
-              {
-                "id": 104342,
-                "title": "Kongerne af Rømø",
-                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW5U0TQeO1WhFCZ5wTOuWR90ZsB.jpg",
-                "type": "series"
-              },
-              {
-                "id": 257030,
-                "title": "Kongerne af Svendborg",
-                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ds8VqDnL7D9bqewCTUD6Pg31svT.jpg",
-                "type": "series"
-              }
-        ]
-      },
-      {
-        "title": "Nyeste tilføjelser",
-        "items": [
-            {
-                "id": 48748,
-                "title": "Klovn - The Movie",
-                "poster": "https://image.tmdb.org/t/p/original/d6ZpiZjP30LB2ElfhqUgQBO9ui4.jpg",
-                "type": "movie"
-              },
-              {
-                "id": 310602,
-                "title": "Klovn forever",
-                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jteC4dM99UmueJQPgAdYsD2jTNq.jpg",
-                "type": "movie"
-              }
-        ]
-      },
-      {
-        "title": "Premium Serier",
-        "items": [
+          "title": "Premium Serier",
+          "items": [
 
-        ]
-      },
-      {
-        "title": "Premium Film",
-        "items": [
-            {
-                "id": 48748,
-                "title": "Klovn - The Movie",
-                "poster": "https://image.tmdb.org/t/p/original/d6ZpiZjP30LB2ElfhqUgQBO9ui4.jpg",
-                "type": "movie"
-              },
+          ]
+        },
+        {
+          "title": "Premium Film",
+          "items": [
               {
-                "id": 310602,
-                "title": "Klovn forever",
-                "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jteC4dM99UmueJQPgAdYsD2jTNq.jpg",
-                "type": "movie"
-              }
-        ]
-      }
-    ]
+                  "id": 48748,
+                  "title": "Klovn - The Movie",
+                  "poster": "https://image.tmdb.org/t/p/original/d6ZpiZjP30LB2ElfhqUgQBO9ui4.jpg",
+                  "type": "movie"
+                },
+                {
+                  "id": 310602,
+                  "title": "Klovn forever",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jteC4dM99UmueJQPgAdYsD2jTNq.jpg",
+                  "type": "movie"
+                },
+                {
+                  "id": 622124,
+                  "title": "Jagtsæson",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yukVEbSrwUBpAjXORUo567Jl9Wc.jpg",
+                  "type": "movie"
+                },
+                {
+                  "id": 1125607,
+                  "title": "Jagtsæson 2: I medgang og modgang",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jxsYzaVAR9nfAv2Zm7MVv4mO7F.jpg",
+                  "type": "movie"
+                },
+                {
+                  "id": 523536,
+                  "title": "Ternet Ninja",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/srMYvsmfLPUaKY3zF2sQmhv9AzY.jpg",
+                  "type": "movie"
+                },
+                {
+                  "id": 717804,
+                  "title": "Blokhavn",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPmfNgWSspwN37d9CbzVLWSPIqH.jpg",
+                  "type": "movie"
+                },
+                {
+                  "id": 1141080,
+                  "title": "Shabholm",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SNooBWCem3SMQRg0O4mghTaxPi.jpg",
+                  "type": "movie"
+                },
+                {
+                  "id": 2061,
+                  "title": "Pusher",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBdk1BjLIgaeumoLWJlXBqdVOZw.jpg",
+                  "type": "movie"
+                },
+                {
+                  "id": 11328,
+                  "title": "Pusher II",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJxyaf7zzQLt1jlt5sIlnaMpXm5.jpg",
+                  "type": "movie"
+                },
+                {
+                  "id": 11330,
+                  "title": "Pusher III",
+                  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/83RwVfeID1Ro0lFEZJqLfgk4xBz.jpg",
+                  "type": "movie"
+                }
+          ]
+        }
+      ]
+    }
   }
-}
