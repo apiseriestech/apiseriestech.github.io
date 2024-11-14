@@ -1,0 +1,128 @@
+{
+    "success": true,
+    "data": {
+      "title": "Familie",
+      "items": [
+        {
+          "id": 1184918,
+          "title": "The Wild Robot",
+          "poster": "https://image.tmdb.org/t/p//w300/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 698687,
+          "title": "Transformers One",
+          "poster": "https://image.tmdb.org/t/p//w300/qrwI2T844nrBUv3eDwQZRDdgSFs.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 519182,
+          "title": "Despicable Me 4",
+          "poster": "https://image.tmdb.org/t/p//w300/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 1022789,
+          "title": "Inside Out 2",
+          "poster": "https://image.tmdb.org/t/p//w300/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 1371727,
+          "title": "Sing: Thriller",
+          "poster": "https://image.tmdb.org/t/p//w300/i77OInTKcrnRlAozFOaB6D5mk15.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 269509,
+          "title": "The Canterville Ghost",
+          "poster": "https://image.tmdb.org/t/p//w300/dFu8oHN805ZRzpQZNOjkiLzMbep.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 1354627,
+          "title": "SpongeBob Squarepants: Kreepaway Kamp",
+          "poster": "https://image.tmdb.org/t/p//w300/blRsgsexoBqnjcEJkV8beKAVT6J.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 1241982,
+          "title": "Moana 2",
+          "poster": "https://image.tmdb.org/t/p//w300/yh64qw9mgXBvlaWDi7Q9tpUBAvH.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 639720,
+          "title": "IF",
+          "poster": "https://image.tmdb.org/t/p//w300/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 1011985,
+          "title": "Kung Fu Panda 4",
+          "poster": "https://image.tmdb.org/t/p//w300/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 748783,
+          "title": "The Garfield Movie",
+          "poster": "https://image.tmdb.org/t/p//w300/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 354912,
+          "title": "Coco",
+          "poster": "https://image.tmdb.org/t/p//w300/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 568124,
+          "title": "Encanto",
+          "poster": "https://image.tmdb.org/t/p//w300/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 940551,
+          "title": "Migration",
+          "poster": "https://image.tmdb.org/t/p//w300/apQL85BMRgkBWQq6pBXKOLfCyaV.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 1059264,
+          "title": "The Inseparables",
+          "poster": "https://image.tmdb.org/t/p//w300/dmftU2Rnmv9KTteMUwjalOuZHke.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 567811,
+          "title": "10 Lives",
+          "poster": "https://image.tmdb.org/t/p//w300/r2D7MkNocsqKOqGnnGEQThU26JS.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 588648,
+          "title": "Dragonkeeper",
+          "poster": "https://image.tmdb.org/t/p//w300/ggZGnJLzO3BTu7ysuuIzou3Oex5.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 150540,
+          "title": "Inside Out",
+          "poster": "https://image.tmdb.org/t/p//w300/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 14836,
+          "title": "Coraline",
+          "poster": "https://image.tmdb.org/t/p//w300/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 929563,
+          "title": "Big City Greens the Movie: Spacecation",
+          "poster": "https://image.tmdb.org/t/p//w300/wV0nNtlL0nxgse8llRi7SypkCQI.jpg",
+          "type": "movie"
+        }
+      ]
+    }
+  }
