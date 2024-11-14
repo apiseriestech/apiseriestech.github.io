@@ -1,0 +1,145 @@
+{
+    "success": true,
+    "data": {
+      "id": 104341,
+      "title": "Kongerne af Marielyst",
+      "description": "Det populære og indbydende feriesteder, Marielyst, bliver som forvandlet når kongerne indtager byen. Kongerne går nemlig først i seng, når deres yndlingssprut er sluppet op.",
+      "tagline": null,
+      "genres": [
+        {
+          "id": 10764,
+          "name": "Reality"
+        }
+      ],
+      "date": "2011-07-01",
+      "rating": 100,
+      "seasons": 1,
+      "suggested": [
+        {
+          "id": 19123,
+          "title": "Total Drama World Tour",
+          "poster": "https://image.tmdb.org/t/p/w300/xBJdymNHzCmiIvN4hSis59S8mcH.jpg",
+          "type": "series"
+        },
+        {
+          "id": 33507,
+          "title": "Total Drama: Revenge of the Island",
+          "poster": "https://image.tmdb.org/t/p/w300/eo6qAfLRkUCWtU6UGu8Jx0MmiKg.jpg",
+          "type": "series"
+        },
+        {
+          "id": 75868,
+          "title": "Total Drama All-Stars and Pahkitew Island",
+          "poster": "https://image.tmdb.org/t/p/w300/csBOOo0VAiizJhS79c1AjRY7nDH.jpg",
+          "type": "series"
+        },
+        {
+          "id": 67082,
+          "title": "Total Drama Presents: The Ridonculous Race",
+          "poster": "https://image.tmdb.org/t/p/w300/NpHctZgDk1QvwQWpR4gZaqZIdP.jpg",
+          "type": "series"
+        },
+        {
+          "id": 34573,
+          "title": "A.N.T. Farm",
+          "poster": "https://image.tmdb.org/t/p/w300/aY36imZmrZkDVjZB4mmhAHQpl3n.jpg",
+          "type": "series"
+        },
+        {
+          "id": 3764,
+          "title": "Hustle",
+          "poster": "https://image.tmdb.org/t/p/w300/xty7kinvhVH3RzMdjNQSpJj2pEm.jpg",
+          "type": "series"
+        },
+        {
+          "id": 155613,
+          "title": "Jeyran",
+          "poster": "https://image.tmdb.org/t/p/w300/yrnqSlAIXBduE9bnbwmWu0vxgIk.jpg",
+          "type": "series"
+        },
+        {
+          "id": 31991,
+          "title": "WWE NXT",
+          "poster": "https://image.tmdb.org/t/p/w300/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+          "type": "series"
+        },
+        {
+          "id": 87523,
+          "title": "The Good Lord Bird",
+          "poster": "https://image.tmdb.org/t/p/w300/bNFcWrxlnFXvrjJezId6bAoePzT.jpg",
+          "type": "series"
+        },
+        {
+          "id": 60705,
+          "title": "Faking It",
+          "poster": "https://image.tmdb.org/t/p/w300/vb9J7q977HB3AmvLETpmWIyIyTP.jpg",
+          "type": "series"
+        },
+        {
+          "id": 67835,
+          "title": "Scandal Made Me Famous",
+          "poster": "https://image.tmdb.org/t/p/w300/60TyLvRN6ZH3M9ZDQ3WDFVV7bYU.jpg",
+          "type": "series"
+        },
+        {
+          "id": 6647,
+          "title": "The Bold and the Beautiful",
+          "poster": "https://image.tmdb.org/t/p/w300/8EzeAbyorB9vE0dnzMg0cyqSm8E.jpg",
+          "type": "series"
+        },
+        {
+          "id": 66465,
+          "title": "The Kapil Sharma Show",
+          "poster": "https://image.tmdb.org/t/p/w300/fBPNBNFmcwhYXUpkW2Kb6jbeJOR.jpg",
+          "type": "series"
+        },
+        {
+          "id": 2612,
+          "title": "Deadliest Catch",
+          "poster": "https://image.tmdb.org/t/p/w300/thjh1mHkwGbTs3Wz4tiajuJbmbC.jpg",
+          "type": "series"
+        },
+        {
+          "id": 21139,
+          "title": "30 Days of Night: Dust to Dust",
+          "poster": "https://image.tmdb.org/t/p/w300/w49dyTBtELMfufpSHy5N3dy56oc.jpg",
+          "type": "series"
+        },
+        {
+          "id": 210791,
+          "title": "Aldatmak",
+          "poster": "https://image.tmdb.org/t/p/w300/2HJTZ7ZfPxxHgkKRXmTppFEYviK.jpg",
+          "type": "series"
+        },
+        {
+          "id": 51537,
+          "title": "Life on Top",
+          "poster": "https://image.tmdb.org/t/p/w300/pkl24FjCH9o2THRLebDA0GRD7Dy.jpg",
+          "type": "series"
+        },
+        {
+          "id": 95612,
+          "title": "Home for Christmas",
+          "poster": "https://image.tmdb.org/t/p/w300/9ISBql67OPMVZtTt5ZBWD3FBQpG.jpg",
+          "type": "series"
+        },
+        {
+          "id": 126914,
+          "title": "With Love",
+          "poster": "https://image.tmdb.org/t/p/w300/H7UoEyxRPKdwgdy4kt7UbvkAlX.jpg",
+          "type": "series"
+        },
+        {
+          "id": 107852,
+          "title": "Bolofofos",
+          "poster": "https://image.tmdb.org/t/p/w300/jX9Z1fncEJ8BOCa4kJyP3qDSfBy.jpg",
+          "type": "series"
+        }
+      ],
+      "images": {
+        "backdrop": "https://image.tmdb.org/t/p/original/gQLZEWpspbzQuAL0PMHI0ZVrheW.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/2khziVrJmwNmCURou8Tc14wdY0q.jpg",
+        "logo": "https://i.ibb.co/Vp37WxX/marielyst.png"
+      }
+    }
+  }
