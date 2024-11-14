@@ -4,23 +4,86 @@
       {
         "number": 1,
         "title": "Episode 1",
-        "description": "",
-        "image": "https://eu1-prod-images.disco-api.com/2011/07/01/videoasset-50395-1129308432665081.png?w=400&f=JPG&p=true&q=60",
+        "description": "Første aften byder på en vild bytur, når den brogede flok konger kommer i konflikt med de lokale unge.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
         "runtime": 31
       },
       {
         "number": 2,
         "title": "Episode 2",
-        "description": "",
-        "image": "https://eu1-prod-images.disco-api.com/2011/08/22/videoasset-50398-1129308411199879.png?w=400&f=JPG&p=true&q=60",
+        "description": "Det er dagen derpå efter Kongernes første bytur, og tømmermændene har ramt Marielyst. Prada, som ikke har sovet hele natten, har første arbejdsdag.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
         "runtime": 33
       },
       {
         "number": 3,
         "title": "Episode 3",
-        "description": "",
-        "image": "https://eu1-prod-images.disco-api.com/2017/09/26/videoasset-11028-1506444459077.png?w=400&f=JPG&p=true&q=60",
+        "description": "To af Vodkas veninder kommer på besøg, og da Knaldperlen øjner en mulighed for at få en af dem med i seng, går den helt store kamp ind.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
         "runtime": 33
+      },
+      {
+        "number": 4,
+        "title": "Episode 4",
+        "description": "X'en er forelsket i Babe, men hun er til gengæld ikke interesseret i kun at kysse med én fyr.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+        "runtime": 34
+      },
+      {
+        "number": 5,
+        "title": "Episode 5",
+        "description": "De store følelser er på spil hos kongerne i Marielyst. X'en er blevet forelsket i Babe, og det er svært ikke at blive jaloux.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+        "runtime": 33
+      },
+      {
+        "number": 6,
+        "title": "Episode 6",
+        "description": "Efter en vild bytur vågner X'en op i Babes seng, og de andre i huset undrer sig over hvad der mon er sket på værelset om natten.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+        "runtime": 34
+      },
+      {
+        "number": 7,
+        "title": "Episode 7",
+        "description": "X'en har fødselsdag og fejres med fødselsdagssang og besøg hjemmefra. Det kalder mere end én tåre frem hos det følsomme fødselsdagsbarn.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+        "runtime": 33
+      },
+      {
+        "number": 8,
+        "title": "Episode 8",
+        "description": "Nattens slåskamp har sat sit præg på stemningen i huset. Kongerne aftaler, at det er slut med at vække folk, når de sover.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+        "runtime": 33
+      },
+      {
+        "number": 9,
+        "title": "Episode 9",
+        "description": "JJ er tømmermændsramt og skal på arbejde på campingpladsen med Babe og Knaldperlen.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+        "runtime": 32
+      },
+      {
+        "number": 10,
+        "title": "Episode 10",
+        "description": "Kongerne har mistet deres VIP-kort og det sætter sit aftryk på stemningen i huset. Bægeret flyder over for X'en, som overvejer at forlade huset.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+        "runtime": 33
+      },
+      {
+        "number": 11,
+        "title": "Episode 11",
+        "description": "Fissan overtaler Kongerne til at tage i BonBon-Land, hvor Prada starter med at tage sig en reparationsøl.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+        "runtime": 32
+      },
+      {
+        "number": 12,
+        "title": "Episode 12",
+        "description": "Det er sidste aften i sommerhuset. Knaldperlen havde inden feriens start sagt, at han ville score 20 damer, men endnu er ingen kommet med under dynen.",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/e34f3b18-b7a4-48ce-974d-68801a407b0b/d9973d3b-f8f0-4d7e-8cf5-442eb60c0a8c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=320",
+        "runtime": 35
       }
     ]
   }
