@@ -1,0 +1,166 @@
+{
+    "success": true,
+    "data": [
+      {
+        "number": 1,
+        "title": "Undercover",
+        "description": "When Jake discovers that a mobster escaped his otherwise successful sting, he enlists Charles to help track him down, which worries Gina.",
+        "image": "https://image.tmdb.org/t/p//w500/buRG5yhoiYHO6Zmj7GRwnkS7aUR.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 2,
+        "title": "Chocolate Milk",
+        "description": "Holt's nemesis heads the precinct inspection, while Terry readies for his vasectomy and Charles needs a date for his ex-wife's engagement party.",
+        "image": "https://image.tmdb.org/t/p//w500/euoqYEnIcfTqE0ZLyCbxju8sDcQ.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 3,
+        "title": "The Jimmy Jab Games",
+        "description": "When a motorcade detail is delayed, it leads to a wacky competition, and Charles must get an incriminating videotape from Hitchcock.",
+        "image": "https://image.tmdb.org/t/p//w500/pVefAbDUUkQkvYtricssfFxL9YS.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 4,
+        "title": "Halloween II",
+        "description": "For their annual Halloween wager, Jake bets Holt that he can steal his watch before midnight, and Gina gets kicked off her dance squad, Floorgasm.",
+        "image": "https://image.tmdb.org/t/p//w500/5FFSvBcbScc4LWTI72VG7gwQH3K.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 5,
+        "title": "The Mole",
+        "description": "Holt and Jake search for a mole in the precinct, and Terry and Rosa visit a silent disco to find \"Giggle Pig\" dealers.",
+        "image": "https://image.tmdb.org/t/p//w500/ifm8LfcMbaprHEDgBZ0m7mSKmqY.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 6,
+        "title": "Jake and Sophia",
+        "description": "Jake is attracted to a woman he soon discovers is the attorney for a perp he's after, and Rosa gets Amy to run for union rep to replace Scully.",
+        "image": "https://image.tmdb.org/t/p//w500/uGBrW5VIi9OeYc6Zfo2NcfbpZUG.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 7,
+        "title": "Lockdown",
+        "description": "When the precinct goes into lockdown on Thanksgiving night, it's up to Jake to keep morale high, even as things spiral out of control.",
+        "image": "https://image.tmdb.org/t/p//w500/aZ2yiJFbkbSyucgAvcCrAwj9xhI.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 8,
+        "title": "USPIS",
+        "description": "To catch a drug dealer, Jake and Charles must team up with an incompetent Postal Service investigator. Meanwhile, the team helps Amy quit smoking.",
+        "image": "https://image.tmdb.org/t/p//w500/pi0O3RtmOeHkcI9NGMfjOcfsy64.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 9,
+        "title": "The Road Trip",
+        "description": "When Jake and Amy have to stay overnight at a hotel for a case, Jake invites Sophia and Amy's boyfriend Teddy over, but the move backfires.",
+        "image": "https://image.tmdb.org/t/p//w500/igOlJHg0zRBostzcAJp1DQz6To2.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 10,
+        "title": "The Pontiac Bandit Returns",
+        "description": "Jake and Rosa catch the Pontiac Bandit, who could lead them to the Giggle Pig kingpin. Charles and Gina worry about their parents getting close.",
+        "image": "https://image.tmdb.org/t/p//w500/8jpLHxjhFuU4oQPr8gPjvmNhtHp.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 11,
+        "title": "Stakeout",
+        "description": "Jake and Charles go on a stakeout that lasts way too long, and Terry writes a book for his daughters that angers Amy and Gina.",
+        "image": "https://image.tmdb.org/t/p//w500/pI344sESgXsCQS6Zi6y4a487LYD.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 12,
+        "title": "Beach House",
+        "description": "Jake ruins the precinct's annual beach house getaway when he's pressured into bringing Captain Holt. Gina wants to see \"six-drink Amy.\"",
+        "image": "https://image.tmdb.org/t/p//w500/rY9pePnXKUO4Qp82UFVeCvRvnGH.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 13,
+        "title": "Payback",
+        "description": "Jake has to go to great lengths to keep a secret about Terry from the rest of the precinct, and Amy finally gets to partner up with Captain Holt.",
+        "image": "https://image.tmdb.org/t/p//w500/3rVj1yBg1AiJT6Y5Y67kkM9XUYG.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 14,
+        "title": "The Defense Rests",
+        "description": "When his relationship with Sophia gets in the way of her work, Jake tries to help, Wuntch needs Holt's help, and Charles wants Gina's blessing.",
+        "image": "https://image.tmdb.org/t/p//w500/lQo82DI2L94LStXkPGHzwq1PVDJ.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 15,
+        "title": "Windbreaker City",
+        "description": "The Nine-Nine is invited to a terrorist training drill with Homeland Security, but the precinct's role as hostages doesn't go over so well.",
+        "image": "https://image.tmdb.org/t/p//w500/3LvZKLyoHTIdazlUUkIDp4DeRLO.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 16,
+        "title": "The Wednesday Incident",
+        "description": "Jake is determined to prove that he's not to blame for Holt's bad mood, and when Charles catches a notorious bank robber, nobody believes him.",
+        "image": "https://image.tmdb.org/t/p//w500/AJQYTjoMYbPil4LjJqGryJJyfO.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 17,
+        "title": "Boyle-Linetti Wedding",
+        "description": "It's wedding day for Charles and Gina's parents, and everyone in the squad is given duties; but Jake and Gina get distracted, and Terry has troubles.",
+        "image": "https://image.tmdb.org/t/p//w500/vJLCeAhHmfZiy8MSrtHBIUGj7Pz.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 18,
+        "title": "Captain Peralta",
+        "description": "When Jake's absentee father visits, Charles suspects he's up to no good. Holt throws down a brain twister challenge.",
+        "image": "https://image.tmdb.org/t/p//w500/r9OJtjSiBRpRUXlex4XVUumjyWu.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 19,
+        "title": "Sabotage",
+        "description": "Holt makes Amy and Rosa investigate Jake's bad luck, but he also insults Gina. Charles partners with Hitchcock and Scully.",
+        "image": "https://image.tmdb.org/t/p//w500/3Sf44YzSrxndmUkgohblBnNtxiu.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 20,
+        "title": "AC/DC",
+        "description": "Terry forces Jake to take time off after he's injured chasing a perp, and Holt and Rosa go on an awkward double date with their significant others.",
+        "image": "https://image.tmdb.org/t/p//w500/fLVB5cFSaQnPbabh4wcUJnCuuvT.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 21,
+        "title": "Det. Dave Majors",
+        "description": "Jake gets jealous over another detective's romantic interest in Amy, and Terry is tempted to accept a job at a private security firm.",
+        "image": "https://image.tmdb.org/t/p//w500/bEALUmShCajBgwsByPIGOhJKLs3.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 22,
+        "title": "The Chopper",
+        "description": "Holt worries Jake is being set up to fail when Wuntch green lights his dream assignment, and Terry hosts a field trip for a magnet school.",
+        "image": "https://image.tmdb.org/t/p//w500/kUSC8LDE1b4fl4vbamrpaoge1JH.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 23,
+        "title": "Johnny and Dora",
+        "description": "Jake and Amy go undercover to catch an infamous identity thief, and the squad is rocked by an unexpected farewell.",
+        "image": "https://image.tmdb.org/t/p//w500/yB8DpaWxoii9x6I9VDjc7dXLUCV.jpg",
+        "runtime": 22
+      }
+    ]
+  }

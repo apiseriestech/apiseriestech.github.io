@@ -1,0 +1,96 @@
+{
+    "success": true,
+    "data": [
+      {
+        "number": 1,
+        "title": "Manhunter",
+        "description": "Jake finds his authority tested and thunder stolen by a beat-walking Holt amid a manhunt. Amy turns to Rosa for support during a personal crisis.",
+        "image": "https://image.tmdb.org/t/p//w500/tMf1OuqIyQCgzcCSXsjWEX7vbui.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 2,
+        "title": "Captain Kim",
+        "description": "When an interim captain arrives at the Nine-Nine, Jake sets out to prove she's way too good to be true. Boyle rebrands his image.",
+        "image": "https://image.tmdb.org/t/p//w500/yM30bgDLlxL8vbIknbbHN9G3xZn.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 3,
+        "title": "Pimemento",
+        "description": "Adrian Pimento resurfaces with a \"Finding Dory\"-esque memory problem. Jake tries to keep a secret from Boyle. The squad attends a mandatory HR seminar.",
+        "image": "https://image.tmdb.org/t/p//w500/ok8rYTTi1skrwHmoPtUX3VVAXux.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 4,
+        "title": "The Jimmy Jab Games II",
+        "description": "Jake revives the Jimmy Jab Games, with Boyle going full-on P.T. Barnum as host of the competition and Holt's timid new partner reluctantly joining in.",
+        "image": "https://image.tmdb.org/t/p//w500/5T7aBAyWhu5rFee3WaCcgLMMQ7U.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 5,
+        "title": "Debbie",
+        "description": "The squad suspects an inside job when guns and cocaine connected to a notorious crime boss go missing from the Nine-Nine.",
+        "image": "https://image.tmdb.org/t/p//w500/aRvd8Fz7iE395jLkDsqa3qGdsZz.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 6,
+        "title": "Trying",
+        "description": "Time flies as Jake and Amy focus on their family plans. Holt bristles over his tedious new job. A tooth-wielding Hitchcock searches for his Cinderella.",
+        "image": "https://image.tmdb.org/t/p//w500/7ST7k5QRYkMp0iqLfVrq3Enx8WQ.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 7,
+        "title": "Ding Dong",
+        "description": "Holt risks his career by refusing to let his greatest nemesis have the last word. Boyle and Terry compete for Jake's tickets to an exclusive kid event.",
+        "image": "https://image.tmdb.org/t/p//w500/sx6FdamkxDUVhFTEs9bpb0uhP5r.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 8,
+        "title": "The Takeback",
+        "description": "The reappearance of Doug Judy lands Jake in hot water. Terry scrambles to replace Holt's treasured keepsake. The Nine-Nine gets a new vending machine.",
+        "image": "https://image.tmdb.org/t/p//w500/qjLfl8SROdGMpS0roNAJkC78ESp.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 9,
+        "title": "Dillman",
+        "description": "When an apparent prank destroys a key piece of evidence, Holt taps the best detective he knows to interrogate the squad and bring the culprit to justice.",
+        "image": "https://image.tmdb.org/t/p//w500/p2y9ZA1iwkKFIByoWzYC1hlDsa7.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 10,
+        "title": "Admiral Peralta",
+        "description": "Jake doubles down on his daddy issues during a tense family reunion. Holt turns into a musical taskmaster over Terry's audition with the NYPD band.",
+        "image": "https://image.tmdb.org/t/p//w500/2YTpOKS8j3shCabjLUnNnxPBnQS.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 11,
+        "title": "Valloweaster",
+        "description": "A pudgy pooch, handcuffs and various other disasters delay the crowning of the squad's newest Amazing Human/Genius in the annual Halloween Heist.",
+        "image": "https://image.tmdb.org/t/p//w500/vKcChGWs55yHDeDV1jodRu4fO8q.jpg",
+        "runtime": 20
+      },
+      {
+        "number": 12,
+        "title": "Ransom",
+        "description": "Holt turns to Jake for help after a family member goes missing. Rosa battles Amy's ex for a coveted prize. Boyle and Terry team up on a business scheme.",
+        "image": "https://image.tmdb.org/t/p//w500/3OSpDERNm8VfB4m55jx9GHzs5bK.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 13,
+        "title": "Lights Out",
+        "description": "Amy takes charge of the Nine-Nine during a citywide blackout, while Jake hits one snag after another as he races to her side.",
+        "image": "https://image.tmdb.org/t/p//w500/fMhjXumdiKnDSYijaYA9eCLuIek.jpg",
+        "runtime": 22
+      }
+    ]
+  }

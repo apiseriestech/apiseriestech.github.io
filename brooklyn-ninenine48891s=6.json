@@ -1,0 +1,131 @@
+{
+    "success": true,
+    "data": [
+      {
+        "number": 1,
+        "title": "Honeymoon",
+        "description": "An unexpected third wheel puts a damper on Jake and Amy's tropical honeymoon. Back at the Nine-Nine, Terry experiences a crisis of confidence.",
+        "image": "https://image.tmdb.org/t/p//w500/bLZSOzRAqO5V74D2koPksQscC3t.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 2,
+        "title": "Hitchcock & Scully",
+        "description": "Jake and Charles investigate a case of Hitchcock and Scully's from the 1980s. Meanwhile, Amy's uniformed officers and Terry's detectives fight over limited resources.",
+        "image": "https://image.tmdb.org/t/p//w500/sfWFDgNUDjDBo9HOgNG4tSIAk7d.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 3,
+        "title": "The Tattler",
+        "description": "Jake and Gina attend their 20th high school reunion. Back at the Nine-Nine, Charles helps Rosa with her love life.",
+        "image": "https://image.tmdb.org/t/p//w500/l1NZcemvW2husp07poXhHxABhmt.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 4,
+        "title": "Four Movements",
+        "description": "After Gina makes a life-changing decision, she bestows a series of gifts on the squad. But first, an interpretive dance ...",
+        "image": "https://image.tmdb.org/t/p//w500/dGbTIbYP315IkTJ20UoNeiH1IH5.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 5,
+        "title": "A Tale of Two Bandits",
+        "description": "Jake investigates a series of car thefts that point to an old frenemy. Meanwhile, the squad defends their favorite bar from interlopers.",
+        "image": "https://image.tmdb.org/t/p//w500/20nigWdg6hichDRKLwdBBRMxpxL.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 6,
+        "title": "The Crime Scene",
+        "description": "A promise made to a grieving mother sends Jake spiraling into obsession as he and Rosa comb the scene of a baffling murder for clues.",
+        "image": "https://image.tmdb.org/t/p//w500/10MdhUpcykGVTJLvy7GeVznCnuy.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 7,
+        "title": "The Honeypot",
+        "description": "Holt and Jake become suspicious of a new Nine-Nine employee. Amy goes full-on Marie Kondo to declutter the bullpen.",
+        "image": "https://image.tmdb.org/t/p//w500/isKURUcTgOx2V774NyltOShGlqe.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 8,
+        "title": "He Said, She Said",
+        "description": "Amy and Jake hear conflicting stories as they investigate a sexual assault accusation. Holt refuses to believe an old nemesis is really dead.",
+        "image": "https://image.tmdb.org/t/p//w500/5maSCF0Yobq9gGixbFj33rGHPBw.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 9,
+        "title": "The Golden Child",
+        "description": "Jake helps Amy navigate the complicated relationship she has with her brother, David. Charles introduces some drama into an undercover mission involving Terry and Holt.",
+        "image": "https://image.tmdb.org/t/p//w500/5z7U6f7PpeZmIJm3sH6OY6Bj3NB.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 10,
+        "title": "Gintars",
+        "description": "A visitor from Latvia causes Charles and Jake to investigate Nikolaj's family. Holt and Amy bring in famed forensic scientist Dr. Yee to help close a case for Rosa.",
+        "image": "https://image.tmdb.org/t/p//w500/oZ9UMk7MKTIumOzD7DIFmeN1lZD.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 11,
+        "title": "The Therapist",
+        "description": "A missing person case forces Jake to confront his issues with therapy. Holt invites Rosa and her new girlfriend to dinner. Terry overcompensates.",
+        "image": "https://image.tmdb.org/t/p//w500/likXfZnk9bhfx2IyECRuvECVcIO.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 12,
+        "title": "Casecation",
+        "description": "While celebrating their first anniversary, Jake and Amy realize they've had a communication breakdown over a major life decision.",
+        "image": "https://image.tmdb.org/t/p//w500/bxU2nWhLrhpde3fS0keqal5A7a2.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 13,
+        "title": "The Bimbo",
+        "description": "A burglary investigation at Kevin's university reveals Holt's hidden insecurity. Amy and Terry's efforts to raise morale turn deliciously cutthroat.",
+        "image": "https://image.tmdb.org/t/p//w500/sKdBlH6oVTO70V2vvRxiIz5g6z1.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 14,
+        "title": "Ticking Clocks",
+        "description": "As Hitchcock and Scully microwave a lasagna for exactly 21 minutes and 30 seconds, the squad races against the clock to catch a hacker.",
+        "image": "https://image.tmdb.org/t/p//w500/xnv8adqyfG70DQEnp9ugLHs16mp.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 15,
+        "title": "Return of the King",
+        "description": "Gina invites Jake and Terry over to her new place. Holt takes an interest in Nikolaj's education. Rosa rejects Amy's offer of a helping hand.",
+        "image": "https://image.tmdb.org/t/p//w500/o4LiSkg9Izbero76SwZpon1PZ1w.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 16,
+        "title": "Cinco de Mayo",
+        "description": "Mayhem and double-crossing overtake the squad as they try to distract Terry from his lieutenant's exam by kicking off the Halloween Heist on a new day.",
+        "image": "https://image.tmdb.org/t/p//w500/7V16fperXSPfFyoYVC3e2YmxCkZ.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 17,
+        "title": "Sicko (1)",
+        "description": "Jake and Boyle hunt for a serial killer under the watchful eye of Commissioner Kelly. Terry learns that more money does indeed bring more problems.",
+        "image": "https://image.tmdb.org/t/p//w500/ub4PLlJv2KGXETOQrq5JVjqKDYs.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 18,
+        "title": "Suicide Squad (2)",
+        "description": "To right a wrong, the Nine-Nine teams up with the worst of the worst of the NYPD. Terry sinks into deep denial about his future.",
+        "image": "https://image.tmdb.org/t/p//w500/yMu84cLYRJdfnUUxA2XF1GB45uO.jpg",
+        "runtime": 22
+      }
+    ]
+  }

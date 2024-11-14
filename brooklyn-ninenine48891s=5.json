@@ -1,0 +1,159 @@
+{
+    "success": true,
+    "data": [
+      {
+        "number": 1,
+        "title": "The Big House (1)",
+        "description": "Stuck behind bars, Jake lands in trouble over some delicious contraband. Fellow inmate Rosa keeps Holt and Terry busy with a never-ending to-do list.",
+        "image": "https://image.tmdb.org/t/p//w500/recKzFehIDBHSOs7H1xM6rVLY33.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 2,
+        "title": "The Big House (2)",
+        "description": "As the squad looks for ways to implicate the corrupt Lt. Hawkins, Jake puts his detective skills to work with help from his affable cannibal cellmate.",
+        "image": "https://image.tmdb.org/t/p//w500/1njsQYVm7R4j8yKRumAUBXwsQWe.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 3,
+        "title": "Kicks",
+        "description": "Freed from prison and back on duty, Jake hunts for a sneaker thief under Holt's watchful eye. Meanwhile, Rosa suspects Pimento of infidelity.",
+        "image": "https://image.tmdb.org/t/p//w500/nKLyiYT3t3w4EWvX1HekcmaUIR6.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 4,
+        "title": "HalloVeen",
+        "description": "Jake pulls off a major surprise during the squad's annual Halloween heist, a cutthroat competition to claim the coveted title of Amazing Human/Genius.",
+        "image": "https://image.tmdb.org/t/p//w500/7rnE9Ul7CwVymc3XTaAxfGtlljn.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 5,
+        "title": "Bad Beat",
+        "description": "An undercover operation brings out Holt's inner gambler. Rosa tries to out-laze Hitchcock and Scully. Charles buys a food truck with an unsavory past.",
+        "image": "https://image.tmdb.org/t/p//w500/sEzmVT0DXmiBi6pu19MRrNzgU82.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 6,
+        "title": "The Venue",
+        "description": "Nemeses plague the squad, as Jake and Amy's big day gets derailed by the Vulture, and Charles must find his missing equine foe, Sgt. Peanut Butter.",
+        "image": "https://image.tmdb.org/t/p//w500/kL1PCTiQAcQsZt9hzSirQSb4S23.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 7,
+        "title": "Two Turkeys",
+        "description": "On Thanksgiving, alcohol provides a temporary fix to Jake and Amy's parental problems, and a pilfered pie awakens the ruthless interrogator in Holt.",
+        "image": "https://image.tmdb.org/t/p//w500/fMPzj51eFTEAIRaGpYjWUadVtfv.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 8,
+        "title": "Return to Skyfire",
+        "description": "Jake and Terry go undercover at a costume-packed fan convention when their favorite fantasy author reports his much-anticipated manuscript stolen.",
+        "image": "https://image.tmdb.org/t/p//w500/fFJWhLDN4XMDyCZZyX6VErCUh4q.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 9,
+        "title": "99",
+        "description": "After missing their flight home from a funeral in LA, Jake and the squad scramble to get Holt back to New York in time for a big interview.",
+        "image": "https://image.tmdb.org/t/p//w500/q1YDFU19O87gC3HrCfsu2cwN1dt.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 10,
+        "title": "Game Night",
+        "description": "Intensely private Rosa shares personal news with the team but wants Jake's help to tell her parents. Cyber Crimes steals the Nine-Nine's bandwidth.",
+        "image": "https://image.tmdb.org/t/p//w500/A5X8HpWgWjkMUan1iyfmSv5Cn6L.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 11,
+        "title": "The Favor",
+        "description": "Crime boss Seamus Murphy resurfaces to claim his promised favor from Holt, so Jake and Charles befriend the Murphy family's Fredo to get information.",
+        "image": "https://image.tmdb.org/t/p//w500/vgyi9iDXuvJUXFIupi9WFPUVmQV.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 12,
+        "title": "Safe House",
+        "description": "After a threat from Murphy, Holt stashes husband Kevin in a safe house with Jake. Rosa goes undercover at a salon. Scully reveals an actual skill.",
+        "image": "https://image.tmdb.org/t/p//w500/uKPvv16W0AHNDpqlrfJhEcjp1KQ.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 13,
+        "title": "The Negotiation",
+        "description": "Tapped to negotiate a hostage situation, Jake realizes the perp is someone he knows. Meanwhile, tensions flare inside Charles's meatball food truck.",
+        "image": "https://image.tmdb.org/t/p//w500/jS7r5eg33iFC9yuE3D3KGInHDvN.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 14,
+        "title": "The Box",
+        "description": "As Jake begins an intense interrogation of a wily dentist suspected of murder, an opera-bound Holt jumps in to assist. Sterling K. Brown guest-stars.",
+        "image": "https://image.tmdb.org/t/p//w500/gxCFfiHM6laOvXCYL9MZ83moc0P.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 15,
+        "title": "The Puzzle Master",
+        "description": "Jake brings Amy in on an arson case connected to her celebrity crush, a crossword puzzle author. The Nine-Nine gets a sweet new detective car.",
+        "image": "https://image.tmdb.org/t/p//w500/uJW3NOtrAyqAHCmhWm5PZgIryUX.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 16,
+        "title": "NutriBoom",
+        "description": "After realizing they were suckered into a pyramid scheme, Jake and Charles try to take down the cultish group. Amy deals with an overeager officer.",
+        "image": "https://image.tmdb.org/t/p//w500/xkG2MOlEYoQaAvuYh4jjMlDOQdv.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 17,
+        "title": "DFW",
+        "description": "Jake's attempt to connect with his half sister goes off the rails. Terry tries and fails to show his flexibility. Gina sets Rosa up on a blind date.",
+        "image": "https://image.tmdb.org/t/p//w500/vRUM7NKkbaXh3LcMCW15WLAV4JV.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 18,
+        "title": "Gray Star Mutual",
+        "description": "A familiar face pops up when disaster strikes Charles's food truck. Rosa offers to help Amy pick out a wedding gown. Holt sets up a Twitter account.",
+        "image": "https://image.tmdb.org/t/p//w500/cSmxMrKcX6mHRzYrbVToZTWaDma.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 19,
+        "title": "Bachelor/ette Party",
+        "description": "Charles's convoluted bachelor party plans frustrate Jake, Terry and Holt. At her bachelorette bash, Amy plays a revealing game of \"Never Have I Ever.\"",
+        "image": "https://image.tmdb.org/t/p//w500/4Y0DchWTAkNRhKyqqXT8h6gsJ8q.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 20,
+        "title": "Show Me Going",
+        "description": "An anxious Nine-Nine awaits news on Rosa after she enters an active shooter situation. Amy and Gina distract themselves by taking on a plumbing issue.",
+        "image": "https://image.tmdb.org/t/p//w500/g6SoyhSnEcMhzCqX2omAgSNf5tS.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 21,
+        "title": "White Whale",
+        "description": "As Rosa and Amy hunt a criminal who escaped their clutches years ago, Jake takes over wedding prep. Holt faces off with his rival for commissioner.",
+        "image": "https://image.tmdb.org/t/p//w500/yijgYRLCgo8xunDWU7KhlSDt40u.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 22,
+        "title": "Jake & Amy",
+        "description": "When Jake and Amy suffer a wedding day crisis, the Nine-Nine attempts to salvage the nuptials. Holt receives news on his bid for the commissioner job.",
+        "image": "https://image.tmdb.org/t/p//w500/2nGoIXoxt4WK3ugc2kRGM85ntWS.jpg",
+        "runtime": 22
+      }
+    ]
+  }

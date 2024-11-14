@@ -1,0 +1,159 @@
+{
+    "success": true,
+    "data": [
+      {
+        "number": 1,
+        "title": "Pilot",
+        "description": "When tightly wound Capt. Holt takes over the precinct, carefree Det. Jake Peralta and his dysfunctional coworkers' lives get demanding.",
+        "image": "https://image.tmdb.org/t/p//w500/zBDTEJf7TiqaMI2VdQQSelJ67GA.jpg",
+        "runtime": 23
+      },
+      {
+        "number": 2,
+        "title": "The Tagger",
+        "description": "Jake is assigned a lowly graffiti case as punishment for being late to roll call.",
+        "image": "https://image.tmdb.org/t/p//w500/j7L0GDSXWmKaZ1nlxEOoA3m7z7p.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 3,
+        "title": "The Slump",
+        "description": "Jake's unsolved cases pile up and the other detectives fear that his losing streak will rub off on them, while Amy must run an at-risk youth program.",
+        "image": "https://image.tmdb.org/t/p//w500/o2K9lcwhcvWc0kQDzgXzNXINVU9.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 4,
+        "title": "M.E. Time",
+        "description": "The team turns on Jake for delaying an autopsy report by flirting with an attractive medical examiner, who turns out to be more than he bargained for.",
+        "image": "https://image.tmdb.org/t/p//w500/9dozcGhSyLHMVp8pFUA45UwVIjN.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 5,
+        "title": "The Vulture",
+        "description": "A Major Crimes detective known as \"The Vulture\" takes over Jake's nearly solved case and steals his thunder, prompting revenge.",
+        "image": "https://image.tmdb.org/t/p//w500/qaG1aJWVRXpSd1WDyicHLnYFGJh.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 6,
+        "title": "Halloween",
+        "description": "Halloween-hating Amy is anything but festive when she has to don a costume and hit the streets with Charles on busy Halloween night.",
+        "image": "https://image.tmdb.org/t/p//w500/41wJeO3WBgKxzEmI8BrsLHPq2W5.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 7,
+        "title": "48 Hours",
+        "description": "After making an arrest with too little proof, Jake has 48 hours to get evidence or the perp will go free, forcing the team to work over the weekend.",
+        "image": "https://image.tmdb.org/t/p//w500/gjpwzl6DSkbZD5Co1lfbzuLYvZP.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 8,
+        "title": "Old School",
+        "description": "Jake's dream day with his hero, a former crime reporter, turns nightmarish when his comments about Holt and the precinct go \"on the record.\"",
+        "image": "https://image.tmdb.org/t/p//w500/uRjBnK21QqTAVs7LcLwjrGRlxnq.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 9,
+        "title": "Sal's Pizza",
+        "description": "When Jake's favorite pizzeria is burned down and the fire marshal suspects the owner, Jake steps outside his jurisdiction to catch the real arsonist.",
+        "image": "https://image.tmdb.org/t/p//w500/sFWcRQswQ6pQrWGeYlx2A1JlS37.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 10,
+        "title": "Thanksgiving",
+        "description": "Amy hosts Thanksgiving dinner for the precinct in an effort to get Holt to be her mentor, but Holt and Jake leave early and the rest hate her cooking.",
+        "image": "https://image.tmdb.org/t/p//w500/qHNIo4y4RwxdMASm683jNpB8f8x.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 11,
+        "title": "Christmas",
+        "description": "When Capt. Holt receives death threats, Jake is placed on his protective detail and revels in the chance to boss his boss around.",
+        "image": "https://image.tmdb.org/t/p//w500/3y94S8Wpmr6E4JMoJqsQhIHQqPI.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 12,
+        "title": "Pontiac Bandit",
+        "description": "Jake and Rosa hunt an infamous car thief, Holt tries to find a home for puppies and the rest of the precinct tries to accommodate a wounded Charles.",
+        "image": "https://image.tmdb.org/t/p//w500/9gMZZk1Qe0d4UDUGuoarQhZ7y6T.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 13,
+        "title": "The Bet",
+        "description": "After Jake and Amy's bet about who can make more arrests is finally settled, the two go on a stakeout where Jake reevaluates their relationship.",
+        "image": "https://image.tmdb.org/t/p//w500/qX8ZVG1w35JLHRuU5wyOOTseUcT.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 14,
+        "title": "The Ebony Falcon",
+        "description": "On his first task back in the field, Terry takes advice from Jake on controlling his emotions to infiltrate and bust a steroid trafficking ring.",
+        "image": "https://image.tmdb.org/t/p//w500/yECPby7hbjVLKafDhVFUyU2F5U5.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 15,
+        "title": "Operation: Broken Feather",
+        "description": "While investigating a string of hotel robberies together, Jake discovers that Amy may transfer to the Major Crimes unit and work with \"The Vulture.\"",
+        "image": "https://image.tmdb.org/t/p//w500/vLeJZN0cZN9c5O6EYHO2OtZh9U.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 16,
+        "title": "The Party",
+        "description": "At Capt. Holt's birthday party, Jake, Amy and the other officers try to make a good impression on Holt's husband but fail miserably.",
+        "image": "https://image.tmdb.org/t/p//w500/eRoTrbn0pI9foFMesD3cEClh3JM.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 17,
+        "title": "Full Boyle",
+        "description": "To stop Detective Boyle from getting too clingy, or \"Full Boyle,\" with his new girlfriend, Jake goes on their date, but things don't go as planned.",
+        "image": "https://image.tmdb.org/t/p//w500/oTPT1w4kx6yQj6KxwD0dtFmXI4S.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 18,
+        "title": "The Apartment",
+        "description": "When Jake's building goes co-op and he must pay nearly a half million dollars to keep his apartment, he desperately seeks Gina's help.",
+        "image": "https://image.tmdb.org/t/p//w500/w3aZDxuc6dqnrjiW6Qp1iGw0MYU.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 19,
+        "title": "Tactical Village",
+        "description": "At Tactical Village, where the precinct competes against other precincts in paintball exercises, Jake gets jealous when Amy runs into an old flame.",
+        "image": "https://image.tmdb.org/t/p//w500/lVdgq7eDrhInMUWFf4phzjjl81X.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 20,
+        "title": "Fancy Brudgom",
+        "description": "When Charles makes Jake his best man, it means cake tasting, choosing flowers and convincing fiancée Vivian that Charles doesn't want to move.",
+        "image": "https://image.tmdb.org/t/p//w500/fahSrCxAYyqGQEmbA9LxxFksasr.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 21,
+        "title": "Unsolvable",
+        "description": "On a solving streak, Jake decides to spend his weekend off with Sgt. Terry trying to crack a cold case that no one thinks can be solved.",
+        "image": "https://image.tmdb.org/t/p//w500/fRomiUiWrHqyPbBnKL7pdICbvHM.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 22,
+        "title": "Charges and Specs",
+        "description": "Jake risks suspension when the commissioner shuts down his investigation of a civic leader and he gets Amy and Holt to help him work the case anyway.",
+        "image": "https://image.tmdb.org/t/p//w500/1TadanH1OC01jOnw4fNSX3SOMEJ.jpg",
+        "runtime": 22
+      }
+    ]
+  }

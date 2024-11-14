@@ -1,0 +1,166 @@
+{
+    "success": true,
+    "data": [
+      {
+        "number": 1,
+        "title": "New Captain",
+        "description": "The precinct's new captain makes an unforgettable first impression. Jake and Amy try to keep their budding romance under wraps.",
+        "image": "https://image.tmdb.org/t/p//w500/qxLocfnhxbbBhmrJlOYoUKBKdxp.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 2,
+        "title": "The Funeral",
+        "description": "Another shakeup at the precinct spells trouble for Jake and Amy, while a string of disappointments sends Holt into a downward spiral.",
+        "image": "https://image.tmdb.org/t/p//w500/3H5jUTwDwf8ph48HjhyDjyHBzBU.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 3,
+        "title": "Boyle's Hunch",
+        "description": "A smitten Boyle vows to get a fellow foodie out of prison by proving her innocence. Holt's bid to boost cops' public image sparks a backlash.",
+        "image": "https://image.tmdb.org/t/p//w500/6w8u9oiwFyjmv5Z39NMwMtfBjdt.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 4,
+        "title": "The Oolong Slayer",
+        "description": "While Jake and Holt secretly team up to hunt for a serial killer, Amy and Rosa seek revenge for a sexist assignment.",
+        "image": "https://image.tmdb.org/t/p//w500/fvOkgvTdno8iuhbWTfEzoZajRdM.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 5,
+        "title": "Halloween III",
+        "description": "For their annual Halloween heist, Jake and Holt draft teams and compete to steal a crown. But Amy's divided loyalties leave her out in the cold.",
+        "image": "https://image.tmdb.org/t/p//w500/byCM7rRY6MQiOwuZ2O3RAPy52Qv.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 6,
+        "title": "Into the Woods",
+        "description": "Jake and Charles whisk Terry away for an ill-fated camping trip, while Holt helps Rosa with a dilemma, and Amy tries to cash in on an old invention.",
+        "image": "https://image.tmdb.org/t/p//w500/3XCPrrFr2MBIG0unO9j31vumKdO.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 7,
+        "title": "The Mattress",
+        "description": "A lovers' spat leads to trouble on the job as Jake and Amy chase down a new street drug. A parking mishap drives a wedge between Holt and Boyle.",
+        "image": "https://image.tmdb.org/t/p//w500/1YwkXzNA5es9ibEr2FWcKbWFZAU.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 8,
+        "title": "Ava",
+        "description": "Jake jumps into action when Terry's wife goes into labor at the precinct. Meanwhile, an Internet outage forces the team to go old-school.",
+        "image": "https://image.tmdb.org/t/p//w500/bMGdgREGBmndpohiVavdWX2Brh8.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 9,
+        "title": "The Swedes",
+        "description": "Tensions flare as Jake and Rosa work a case with two peculiar Swedish cops. Neil deGrasse Tyson drops by to help Gina prepare for a big test.",
+        "image": "https://image.tmdb.org/t/p//w500/bb7fZaJY3i7AsrGaDHF6NNYzrI1.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 10,
+        "title": "Yippie Kayak",
+        "description": "A last-minute Christmas shopping trip lands Jake, Gina and Charles in the middle of a \"Die Hard\"-like hostage crisis.",
+        "image": "https://image.tmdb.org/t/p//w500/u2npGxVlBt74p6fGZ9eEnFKHIae.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 11,
+        "title": "Hostage Situation",
+        "description": "Boyle tries to recover some sensitive cargo held hostage by his ruthless ex-wife. Amy injures Terry at the worst possible moment.",
+        "image": "https://image.tmdb.org/t/p//w500/4626qlIfpKY0gDj1UfxI2uLoYQv.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 12,
+        "title": "9 Days",
+        "description": "An illness leaves Jake and Holt quarantined and delusional as they try to solve a cold case. Terry discovers running the precinct is messy work.",
+        "image": "https://image.tmdb.org/t/p//w500/vG2U298MWeSVswCU9H6qrTU8NzT.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 13,
+        "title": "The Cruise",
+        "description": "Jake and Amy embark on a romantic cruise, only to find an old adversary aboard. Holt braces for a visit from his melodramatic sister.",
+        "image": "https://image.tmdb.org/t/p//w500/21M5KryDSqDoeAGkjNqMtH6iDpZ.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 14,
+        "title": "Karen Peralta",
+        "description": "Amy gears up to meet Jake's mother on his birthday, but the celebration takes an unexpected turn. New body cameras prove embarrassing for Boyle.",
+        "image": "https://image.tmdb.org/t/p//w500/qYCzeVLNW56N9YdTewEMPg89313.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 15,
+        "title": "The 9-8",
+        "description": "Sparks fly when a neighboring precinct moves in with the Nine-Nine. Jake's reunion with an old partner yields an unhappy surprise.",
+        "image": "https://image.tmdb.org/t/p//w500/cCdG3VjyAkrpfzUT4yZ5biDPZay.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 16,
+        "title": "House Mouses",
+        "description": "Jake persuades Scully and Hitchcock to take over a drug bust so he can help out with a \"celebrity\" matter. But neither case is what the team expected.",
+        "image": "https://image.tmdb.org/t/p//w500/bFFxoKsg2kOFU2jqQka5eYtIPta.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 17,
+        "title": "Adrian Pimento",
+        "description": "A cop fresh off an undercover stint with the mob has trouble readjusting to precinct life. Boyle's culinary exploits trigger a janitorial standoff.",
+        "image": "https://image.tmdb.org/t/p//w500/l78XbH2aiUoQ9dEXMyxCe8g9Rc.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 18,
+        "title": "Cheddar",
+        "description": "Jake and Amy volunteer to house-sit for Holt, with disastrous results. The chemistry between Rosa and Pimento heats up.",
+        "image": "https://image.tmdb.org/t/p//w500/dbTUb9zjExtL1560J7TSO8eAQFq.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 19,
+        "title": "Terry Kitties",
+        "description": "An adorable special delivery reminds Terry of an unsolved case that's haunted him for years. With Jake's help, he sets out to finally crack it.",
+        "image": "https://image.tmdb.org/t/p//w500/mqWRo5XW9NrPnGPZiNsOqFxYIYk.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 20,
+        "title": "Paranoia",
+        "description": "A whirlwind engagement sends the gang scrambling to throw twin bachelor and bachelorette parties. But the night of revelry takes an unexpected turn.",
+        "image": "https://image.tmdb.org/t/p//w500/pHN0l9onwJno5qm1hVjqbJxaBUY.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 21,
+        "title": "Maximum Security",
+        "description": "To root out the crooked FBI agent who targeted Pimento, the team stages an elaborate fake funeral and sends Amy on a risky undercover mission.",
+        "image": "https://image.tmdb.org/t/p//w500/qLhhKFC13BzTSKf0EZzuOFLunO6.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 22,
+        "title": "Bureau",
+        "description": "With help from an old friend of Holt's, the gang sneaks into the FBI to find dirt on the double agent. An inmate puts Charles in an awkward position.",
+        "image": "https://image.tmdb.org/t/p//w500/zSgQ567YDisEMAVr1gGxn3VrDcS.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 23,
+        "title": "Greg and Larry",
+        "description": "Jake and the team scour the hospital for a captive Captain Holt, while Amy and Charles book it back to New York to help their friends.",
+        "image": "https://image.tmdb.org/t/p//w500/e2i1S0r8Jlv4LCUiE9NNijRXU7C.jpg",
+        "runtime": 22
+      }
+    ]
+  }

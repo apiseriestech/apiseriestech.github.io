@@ -1,0 +1,159 @@
+{
+    "success": true,
+    "data": [
+      {
+        "number": 1,
+        "title": "Coral Palms (1)",
+        "description": "Jake and Holt continue their new lives in Florida under the Witness Protection Program while Jimmy remains at large, but their identities may be revealed after a video of the pair goes viral.",
+        "image": "https://image.tmdb.org/t/p//w500/zd3836SivFA8Ivo1KjS3w7cX9zo.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 2,
+        "title": "Coral Palms (2)",
+        "description": "Jake and Holt end up on the other side of the interrogation table after being caught plotting an attack on Figgis. Meanwhile, a questionable new captain takes over at the precinct.",
+        "image": "https://image.tmdb.org/t/p//w500/n1IXOoCAa69MUFexYoctXqTGPYX.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 3,
+        "title": "Coral Palms (3)",
+        "description": "The team makes a road trip to Florida to try to help Jake and Holt take down Figgis. With an unforeseen injury and yet another interruption by Sheriff Reynolds, the plan doesn’t follow through quite like they all had hoped. In the midst of the chaos, Jake and Amy share an awkward reunion.",
+        "image": "https://image.tmdb.org/t/p//w500/8JFP0YSse4af7r44i6ZtcMqyrG6.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 4,
+        "title": "The Night Shift (I)",
+        "description": "As Jake struggles with his first case back at the precinct, he encounters Jess Day, who is visiting New York, and enlists her to help him find his suspect. Meanwhile, Holt researches ways to increase office morale and Amy tries to figure out why Rosa keeps taking such long breaks.\n\nThe crossover continues on New Girl S06E04 Homecoming (II).",
+        "image": "https://image.tmdb.org/t/p//w500/ryExZEcVkYha9aETrl40C6zAP6L.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 5,
+        "title": "Halloween IV",
+        "description": "It’s Halloween in the Nine-Nine, which can only mean one thing: heist time. This year, the squad members pull out all the stops in their quest to win the new defending title of “Ultimate Detective Slash Genius.” Lines are drawn and plans are made, but there can only be one reigning champion.",
+        "image": "https://image.tmdb.org/t/p//w500/7QG0IpfvY1qR1HXFe0B56FNsaZT.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 6,
+        "title": "Monster in the Closet",
+        "description": "Pimento and Rosa decide to pick up where they left off and get married, so the whole squad preps a perfect wedding under Amy’s careful direction. Pimento enlists Jake and Gina to hunt for his grandmother’s ruby earrings for Rosa to wear in the ceremony, but the universe has other plans for them.",
+        "image": "https://image.tmdb.org/t/p//w500/9e5uMpewhBr80bhO6ILM5pozYbf.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 7,
+        "title": "Mr. Santiago",
+        "description": "At Amy's intricately planned Thanksgiving dinner, Jake goes \"full Santiago\" (binder and all) in order to impress her father, a former cop. With Jake and Amy's focus elsewhere, Charles is left on turkey duty and Holt helps Pimento cope after learning he can no longer work for the NYPD.",
+        "image": "https://image.tmdb.org/t/p//w500/t1YBBg5v0ejp0eckJaw2hNHM4wE.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 8,
+        "title": "Skyfire Cycle",
+        "description": "When famous author DC Parlov receives death threats, Jake and Terry take the case, so that Terry can meet his lifelong hero. Back at the precinct, Gina forces her way into the Boyle clan of cousins in an attempt to choose the location of the annual Boyle family vacation. Meanwhile, Holt's anger peaks when Amy chooses Kevin's side in their argument about a math puzzle.",
+        "image": "https://image.tmdb.org/t/p//w500/d3nnponiwCLKxUP5o7gJt8KFKXX.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 9,
+        "title": "The Overmining",
+        "description": "Captain \"CJ\" is having major problems with a big case, and Jake and Holt find the motivation to help him out. Inside the precinct, war ensues when Terry enforces a green initiative and tells Gina to get rid of her precious space heater, while Rosa and Boyle take a break from the night shift to visit a foot massage parlor.",
+        "image": "https://image.tmdb.org/t/p//w500/6eOcm9fHkDsIlqS8ERyCZCy4NCE.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 10,
+        "title": "Captain Latvia",
+        "description": "Charles enlists Jake's help in tracking down his son's favorite toy for Christmas, and the two find themselves accidentally facing off against a Latvian criminal ring as a result. Back at the precinct, the team gears up for their annual Christmas carol competition against their sworn enemy: the MTA.",
+        "image": "https://image.tmdb.org/t/p//w500/zEJgUpSa9Fzh3sSsrpCeCjxLoAf.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 11,
+        "title": "The Fugitive (1)",
+        "description": "When a prison-van escape sets nine convicts loose in the city, Jake and Amy compete to see who can bring in the most fugitives.",
+        "image": "https://image.tmdb.org/t/p//w500/hbIIWnwqruHU5pnNkH2WxXhBziF.jpg",
+        "runtime": 20
+      },
+      {
+        "number": 12,
+        "title": "The Fugitive (2)",
+        "description": "The effort to capture prison escapees continues. Jake teams up with an unlikely ally who's related to one of the convicts.",
+        "image": "https://image.tmdb.org/t/p//w500/jyTeydyGv3oiq7Va5f8nu8pKh0P.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 13,
+        "title": "The Audit",
+        "description": "Due to low crime rates, Brooklyn decides to close one of its precincts. The future of the Nine-Nine depends on an audit conducted by Amy’s boring ex.",
+        "image": "https://image.tmdb.org/t/p//w500/8EetqLjXBV34A85BxUmlULZ4mae.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 14,
+        "title": "Serve & Protect",
+        "description": "Jake and Rosa tackle a case of a missing laptop on the set of a long-running TV police procedural. Terry’s vengeful ex takes over the audit.",
+        "image": "https://image.tmdb.org/t/p//w500/gRhUVUNh1MSHv0Te3OqyF9ZUZAd.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 15,
+        "title": "The Last Ride",
+        "description": "The squad learns it's dangerously close to being shut down. Jake and Charles go out on one last case that quickly escalates into a major drug bust.",
+        "image": "https://image.tmdb.org/t/p//w500/rcuIJSYNKb8yhzvQvPvg6IudH8G.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 16,
+        "title": "Moo Moo",
+        "description": "After getting stopped and mistreated by an unfamiliar cop, Terry receives some disappointing advice from Holt about how to handle the profiling.",
+        "image": "https://image.tmdb.org/t/p//w500/3o6S0LCDAtFwn002ib4s8Yjfpb6.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 17,
+        "title": "Cop-Con",
+        "description": "Eager to blow off steam, the squad tries to keep Holt in the dark as they throw a secret party during a police convention in upstate New York.",
+        "image": "https://image.tmdb.org/t/p//w500/9DZudpKb5newDUBvzBQUQX61621.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 18,
+        "title": "Chasing Amy",
+        "description": "Jake and Rosa go on a search mission after a stressed-out Amy disappears on the day of her sergeant's exam. Gina inherits a Boyle family heirloom.",
+        "image": "https://image.tmdb.org/t/p//w500/hca1Vfv1MH16wKsjpITGRThD4hQ.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 19,
+        "title": "Your Honor",
+        "description": "While looking into a break-in at Holt's mother's house, Jake discovers a secret she’s been keeping from her son. The squad remodels the break room.",
+        "image": "https://image.tmdb.org/t/p//w500/tA0fIngOsosJCrJxvLjbT32v0MG.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 20,
+        "title": "The Slaughterhouse",
+        "description": "A drug case leads Jake and Rosa to an investigation conducted by their shared idol, Lt. Hawkins, who indicates she may have a job for one of them.",
+        "image": "https://image.tmdb.org/t/p//w500/6o2vrtxai5fLTXQTkXUB022eSD0.jpg",
+        "runtime": 21
+      },
+      {
+        "number": 21,
+        "title": "The Bank Job",
+        "description": "Jake and Rosa call for backup from Holt and Pimento after their search for bank robbers turns dangerous. Boyle disapproves of Gina's new boyfriend.",
+        "image": "https://image.tmdb.org/t/p//w500/mIR5QkvLhGsJbjtaZUdvQZvaCb4.jpg",
+        "runtime": 22
+      },
+      {
+        "number": 22,
+        "title": "Crime & Punishment",
+        "description": "When Jake and Rosa find themselves framed for a crime they didn't commit, the squad must cook up an exceptionally creative solution.",
+        "image": "https://image.tmdb.org/t/p//w500/gsERiyMMxSZoj15QO9L0dKOv1Bg.jpg",
+        "runtime": 22
+      }
+    ]
+  }
