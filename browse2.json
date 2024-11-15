@@ -2,13 +2,13 @@
     "success": true,
     "data": {
       "hero": {
-        "id": 1069387,
+        "id": 238,
         "type": "movie",
-        "title": "Pedro Páramo",
-        "description": "A man searches for his father, Pedro Páramo, in a town doomed by violence and the fury of a frustrated love.",
+        "title": "The Godfather",
+        "description": "Familien Corleone er en stor, varmhjertet slægt af italiensk herkomst. Samtidig er familiens overhoved, Don Vito, en ledende skikkelse i mafiaen, en 'gudfar', hvis magt kun begrænses af hans konkurrenter",
         "images": {
-          "logo": "https://image.tmdb.org/t/p//w500/sd9aoKKZp63tA3USVtPMBdLhDKo.png",
-          "backdrop": "https://image.tmdb.org/t/p//original/rijaG2Z2XEeIUfWUn4fzmzTVCuK.jpg"
+          "logo": "https://image.tmdb.org/t/p/original/kysDTCloxUPJ1BILI4f8gs74fcr.png",
+          "backdrop": "https://image.tmdb.org/t/p/original/tmU7GeKVybMWFButWEGl2M4GeiP.jpg"
         }
       },
       "collections": [

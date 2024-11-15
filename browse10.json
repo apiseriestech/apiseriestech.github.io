@@ -2,13 +2,13 @@
     "success": true,
     "data": {
       "hero": {
-        "id": 845781,
+        "id": 1034541,
         "type": "movie",
-        "title": "Red One",
-        "description": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous bounty hunter in a globe-trotting, action-packed mission to save Christmas.",
+        "title": "Terrifier 3",
+        "description": "Five years after surviving Art the Clown's Halloween massacre, Sienna and Jonathan are still struggling to rebuild their shattered lives. As the holiday season approaches, they try to embrace the Christmas spirit and leave the horrors of the past behind. But just when they think they're safe, Art returns, determined to turn their holiday cheer into a new nightmare. The festive season quickly unravels as Art unleashes his twisted brand of terror, proving that no holiday is safe.",
         "images": {
-          "logo": "https://image.tmdb.org/t/p//w500/rPftQWhQ7ZINyruA3S6rSeaofE2.png",
-          "backdrop": "https://image.tmdb.org/t/p//original/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg"
+          "logo": "https://image.tmdb.org/t/p/original/u7TP0vJkif4Cn2K8wKl5QY0OGRs.png",
+          "backdrop": "https://image.tmdb.org/t/p/original/18TSJF1WLA4CkymvVUcKDBwUJ9F.jpg"
         }
       },
       "collections": [

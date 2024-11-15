@@ -2,13 +2,13 @@
     "success": true,
     "data": {
       "hero": {
-        "id": 1244492,
-        "type": "movie",
-        "title": "Look Back",
-        "description": "Popular, outgoing Fujino is celebrated by her classmates for her funny comics in the class newspaper. One day, her teacher asks her to share the space with Kyomoto, a truant recluse whose beautiful artwork sparks a competitive fervor in Fujino. What starts as jealousy transforms when Fujino realizes their shared passion for drawing.",
+        "id": 1398,
+        "type": "series",
+        "title": "Sopranos",
+        "description": "Mød Tony Soprano (James Gandolfini): En helt almindelig, midaldrende forretningsmand. Tony har en pligtopfyldende kone (Edie Falco). En ikke så pligtopfyldende datter. En søn, der hedder Anthony Jr.. En pestilens af en mor. En hidsigprop af en onkel. En ikke voldsomt hemmelig elsker. Og en psykolog (Lorraine Bracco), som han fortæller alle sine hemmeligheder – på nær den, hun allerede kender, nemlig at Tony er mafiachef.",
         "images": {
-          "logo": "https://image.tmdb.org/t/p//w500/eH7xSZkM0l3l9iVB1dELLjI8JEe.png",
-          "backdrop": "https://image.tmdb.org/t/p//original/1MzBCKjwDyQg2Cu8XJR8Ox59sWY.jpg"
+          "logo": "https://image.tmdb.org/t/p/original/mfIihXrXUHmca7k7cYGupu6DGXQ.png",
+          "backdrop": "https://image.tmdb.org/t/p/original/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg"
         }
       },
       "collections": [

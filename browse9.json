@@ -2,13 +2,13 @@
     "success": true,
     "data": {
       "hero": {
-        "id": 592831,
-        "type": "movie",
-        "title": "Megalopolis",
-        "description": "Genius artist Cesar Catilina seeks to leap the City of New Rome into a utopian, idealistic future, while his opposition, Mayor Franklyn Cicero, remains committed to a regressive status quo, perpetuating greed, special interests, and partisan warfare. Torn between them is socialite Julia Cicero, the mayor’s daughter, whose love for Cesar has divided her loyalties, forcing her to discover what she truly believes humanity deserves.",
+        "id": 1396,
+        "type": "series",
+        "title": "Breaking Bad",
+        "description": "Efter at være blevet diagnosticeret med kræft og givet blot to år tilbage at leve i forsøger kemilæreren Walter at sikre sin families fremtidige økonomiske situation ved at slå sig sammen med en tidligere studerende, Jesse, for at producere og sælge det ulovlige stof amfetamin. Mens Walter langsomt bygger sit imperium op, begynder hans kone Skyler at undre sig over hans uregelmæssige adfærd, og politiet sætter jagten ind på kvarterets nye bagmand.",
         "images": {
-          "logo": "https://image.tmdb.org/t/p//w500/rbbdWtuuLpyV4UwBYmbZ1NYz5q7.png",
-          "backdrop": "https://image.tmdb.org/t/p//original/nA0RDmSDqpN5tLun4sCqdPekObD.jpg"
+          "logo": "https://image.tmdb.org/t/p/original/chw44B2VnLha8iiTdyZcIW0ZELC.png",
+          "backdrop": "https://image.tmdb.org/t/p/original/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg"
         }
       },
       "collections": [

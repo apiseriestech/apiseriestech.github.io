@@ -2,13 +2,13 @@
     "success": true,
     "data": {
       "hero": {
-        "id": 1290287,
-        "type": "movie",
-        "title": "Hot Frosty",
-        "description": "When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?",
+        "id": 153312,
+        "type": "series",
+        "title": "Tulsa King",
+        "description": "Tulsa King følger New York mafia-capoen Dwight 'The General' Manfredi (Stallone), der lige er blevet løsladt fra fængslet efter en dom på 25 år. Han bliver af sin chef sendt til Tulsa i den amerikanske stat Oklahoma for at etablere en forretning. Her indser Dwight Manfredi, at hans mafiafamilie muligvis ikke har sendt ham dertil med de bedste intentioner. Han begynder derfor selv at opbygge et 'hold' af højst overraskende personer og karakterer, så de sammen kan opbygge et nyt, kriminelt imperium - i Tulsa, der for ham lige så godt kunne være på en anden planet.",
         "images": {
-          "logo": "https://image.tmdb.org/t/p//w500/1q606iKfKFzdsBZtePo9BiBcQzj.png",
-          "backdrop": "https://image.tmdb.org/t/p//original/tl3WVdgrDQK70tSVHMAd59XxR3j.jpg"
+          "logo": "https://image.tmdb.org/t/p/original/gZ4nvRFjJZXswKlsD5zCFpHBXv4.png",
+          "backdrop": "https://image.tmdb.org/t/p/original/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg"
         }
       },
       "collections": [

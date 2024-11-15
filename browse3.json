@@ -2,13 +2,13 @@
     "success": true,
     "data": {
       "hero": {
-        "id": 1084736,
-        "type": "movie",
-        "title": "The Count of Monte-Cristo",
-        "description": "Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.",
+        "id": 60625,
+        "type": "series",
+        "title": "Rick and Morty",
+        "description": "Serien handler om den geniale, men drikfældige videnskabsmand Rick, som tager sit misfornøjede barnebarn Morty med på vilde eskapader i andre verdner og dimensioner. Se Morty komme med på jagt efter en frø til megatræer. Mortys forældre, Jerry og Beth er naturligvis ikke helt enige om, hvorvidt bedstefaderen har en god indflydelse på deres søn.",
         "images": {
-          "logo": "https://image.tmdb.org/t/p//w500/faVdxu5Pz1L6jR2InhmA7MRSIc5.png",
-          "backdrop": "https://image.tmdb.org/t/p//original/llIXQAndg5kB6SWlp6ouUdO7Zxd.jpg"
+          "logo": "https://image.tmdb.org/t/p/original/wq3wqFLwwqnhG6DxmSji9ehLcx6.png",
+          "backdrop": "https://image.tmdb.org/t/p/original/rBF8wVQN8hTWHspVZBlI3h7HZJ.jpg"
         }
       },
       "collections": [
