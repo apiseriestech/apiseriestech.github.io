@@ -2,13 +2,13 @@
     "success": true,
     "data": {
       "hero": {
-        "id": 1256599,
+        "id": 1125607,
         "type": "movie",
-        "title": "Jake Paul vs. Mike Tyson",
-        "description": "Gå ikke glip af denne sværvægtsbegivenhed, som sendes live på fem sprog fra AT&T Stadium i Arlington, Texas, hvor Jake Paul bokser mod Mike Tyson i hovedkampen.",
+        "title": "Jagtsæson 2: I medgang og modgang",
+        "description": "Jagtsæson 2: I medgang og modgang er, som titlen afslører, en efterfølger til den populære, danske komedie Jagtsæson fra 2019. I den nye to'er møder vi endnu gang de tre skuespillere Stephania Potalivo, Mille Dinesen og Lærke Winther som de tre veninder, Bella, Eva og Marlene. For Eva kører tingene ikke på skinner, og hun har mistet sit job. Marlene står i den modsatte situation og er blevet forfremmet, mens Bella skal giftes med Evas eksmand. Ikke så fedt (for Eva). Dog påtager hun sig opgaven at arrangere Bellas polterabend, men det bliver slet ikke, som Bella havde drømt om. Derfor må Eva nu kæmpe for at holde sammen på både karriere, kærlighed og venskab.",
         "images": {
-          "logo": "https://image.tmdb.org/t/p/original/pe7ihLwLlPMlylrArhQrj4bC9Nr.png",
-          "backdrop": "https://image.tmdb.org/t/p/original/fKHJikRdF003w0GI16VrSg4mL0K.jpg"
+          "logo": "https://images-0.rakuten.tv/storage/global-movie/translation/title-treatment/a010a699-c8c6-49a8-83b5-3f027459175a-width410-quality90.png",
+          "backdrop": "https://res.cloudinary.com/dllgmrxds/image/upload/s--SQTDd6Z4--/c_scale%2Cw_1200/c_crop%2Cg_auto%2Ch_630%2Cw_1200/f_auto/q_auto/v1/migrate/bdcd92cb71df711e1862a214ab427b0e"
         }
       },
       "collections": [
@@ -66,19 +66,6 @@
           ]
         },
         {
-
-            "title": "Live Events",
-            "items": [
-                {
-                    "id": 1256599,
-                    "title": "Jake Paul vs. Mike Tyson",
-                    "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkEYETLHejoG07pg4DMDqMnLKuf.jpg",
-                    "type": "movie"
-                  }
-            ]
-          },
-        {
-
           "title": "Premium Serier",
           "items": [
 
