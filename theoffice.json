@@ -1,0 +1,145 @@
+{
+    "success": true,
+    "data": {
+      "id": 2316,
+      "title": "The Office",
+      "description": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+      "tagline": "A comedy for anyone whose boss is an idiot.",
+      "genres": [
+        {
+          "id": 35,
+          "name": "Comedy"
+        }
+      ],
+      "date": "2005-03-24",
+      "rating": 86,
+      "seasons": 9,
+      "suggested": [
+        {
+          "id": 8592,
+          "title": "Parks and Recreation",
+          "poster": "https://image.tmdb.org/t/p/w300/dDuzrl9rUIBYieZjqmtNCdncrmZ.jpg",
+          "type": "series"
+        },
+        {
+          "id": 2996,
+          "title": "The Office",
+          "poster": "https://image.tmdb.org/t/p/w300/gH3oLHL09DQL0l9Rz9xC3zxrlnG.jpg",
+          "type": "series"
+        },
+        {
+          "id": 48891,
+          "title": "Brooklyn Nine-Nine",
+          "poster": "https://image.tmdb.org/t/p/w300/hgRMSOt7a1b8qyQR68vUixJPang.jpg",
+          "type": "series"
+        },
+        {
+          "id": 18347,
+          "title": "Community",
+          "poster": "https://image.tmdb.org/t/p/w300/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg",
+          "type": "series"
+        },
+        {
+          "id": 1421,
+          "title": "Modern Family",
+          "poster": "https://image.tmdb.org/t/p/w300/gLAcu4VPCAb90oJvJ4nUJc5ZBQi.jpg",
+          "type": "series"
+        },
+        {
+          "id": 1100,
+          "title": "How I Met Your Mother",
+          "poster": "https://image.tmdb.org/t/p/w300/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg",
+          "type": "series"
+        },
+        {
+          "id": 2710,
+          "title": "It's Always Sunny in Philadelphia",
+          "poster": "https://image.tmdb.org/t/p/w300/pRWO6ufqSNkWvPXDDQhBwPNSv4K.jpg",
+          "type": "series"
+        },
+        {
+          "id": 4546,
+          "title": "Curb Your Enthusiasm",
+          "poster": "https://image.tmdb.org/t/p/w300/mZqWmSq1M61Jlre3furVDSXvdrN.jpg",
+          "type": "series"
+        },
+        {
+          "id": 32962,
+          "title": "Louie",
+          "poster": "https://image.tmdb.org/t/p/w300/wunIdpYD42rtTgu9luzyzXc0COz.jpg",
+          "type": "series"
+        },
+        {
+          "id": 4589,
+          "title": "Arrested Development",
+          "poster": "https://image.tmdb.org/t/p/w300/qMzwO952hMWQSCfHkp7IL20s4K7.jpg",
+          "type": "series"
+        },
+        {
+          "id": 4556,
+          "title": "Scrubs",
+          "poster": "https://image.tmdb.org/t/p/w300/u1z05trCA7AuSuDhi365grwdos1.jpg",
+          "type": "series"
+        },
+        {
+          "id": 1668,
+          "title": "Friends",
+          "poster": "https://image.tmdb.org/t/p/w300/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+          "type": "series"
+        },
+        {
+          "id": 66573,
+          "title": "The Good Place",
+          "poster": "https://image.tmdb.org/t/p/w300/qIhsuhoIYR5yTnDta0IL4senbeN.jpg",
+          "type": "series"
+        },
+        {
+          "id": 1400,
+          "title": "Seinfeld",
+          "poster": "https://image.tmdb.org/t/p/w300/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg",
+          "type": "series"
+        },
+        {
+          "id": 4607,
+          "title": "Lost",
+          "poster": "https://image.tmdb.org/t/p/w300/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+          "type": "series"
+        },
+        {
+          "id": 19885,
+          "title": "Sherlock",
+          "poster": "https://image.tmdb.org/t/p/w300/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+          "type": "series"
+        },
+        {
+          "id": 1396,
+          "title": "Breaking Bad",
+          "poster": "https://image.tmdb.org/t/p/w300/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+          "type": "series"
+        },
+        {
+          "id": 87108,
+          "title": "Chernobyl",
+          "poster": "https://image.tmdb.org/t/p/w300/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+          "type": "series"
+        },
+        {
+          "id": 1438,
+          "title": "The Wire",
+          "poster": "https://image.tmdb.org/t/p/w300/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+          "type": "series"
+        },
+        {
+          "id": 60573,
+          "title": "Silicon Valley",
+          "poster": "https://image.tmdb.org/t/p/w300/dc5r71XI1gD4YwIUoEYCLiVvtss.jpg",
+          "type": "series"
+        }
+      ],
+      "images": {
+        "backdrop": "https://image.tmdb.org/t/p/original/b7wyaeJGU2Q4ql7xZr52vdW5TKp.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+        "logo": "https://image.tmdb.org/t/p/w500/zWozteGoJM0NhHj5lhXSqhu6rUA.png"
+      }
+    }
+  }

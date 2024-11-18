@@ -2,13 +2,13 @@
     "success": true,
     "data": {
       "hero": {
-        "id": 94605,
+        "id": 90228,
         "type": "series",
-        "title": "Arcane",
-        "description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+        "title": "Dune: Prophecy",
+        "description": "Ten thousand years before the ascension of Paul Atreides, sisters Valya and Tula Harkonnen establish the fabled sect and female order that would become known as the Bene Gesserit to control the future of humankind.",
         "images": {
-          "logo": "https://image.tmdb.org/t/p/w500/jXLNOzeEA8AoJy92dJTUUZXTMxK.png",
-          "backdrop": "https://image.tmdb.org/t/p/original/q8eejQcg1bAqImEV8jh8RtBD4uH.jpg"
+          "logo": "https://image.tmdb.org/t/p//w500/zvONe1taIlwyuvZwL43CscDZhci.png",
+          "backdrop": "https://image.tmdb.org/t/p//original/2mj9C1wiIDFaxQXAfKYDfXvbeAz.jpg"
         }
       },
       "collections": [
@@ -16,123 +16,123 @@
           "title": "Populære serier denne uge",
           "items": [
             {
+              "id": 90228,
+              "title": "Dune: Prophecy",
+              "poster": "https://image.tmdb.org/t/p//w300/j3JTITWSEarCamUAuVm1EDL5WEN.jpg",
+              "type": "series"
+            },
+            {
               "id": 94605,
               "title": "Arcane",
-              "poster": "https://image.tmdb.org/t/p/w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+              "type": "series"
+            },
+            {
+              "id": 125988,
+              "title": "Silo",
+              "poster": "https://image.tmdb.org/t/p//w300/tlliQuCupf8fpTH7RAor3aKMGy.jpg",
               "type": "series"
             },
             {
               "id": 194764,
               "title": "The Penguin",
-              "poster": "https://image.tmdb.org/t/p/w300/1nj7OQcRNTs8tg4FjUVekxcs1HJ.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg",
+              "type": "series"
+            },
+            {
+              "id": 213306,
+              "title": "Cross",
+              "poster": "https://image.tmdb.org/t/p//w300/oArnlWvky2KtWoGC0ChaDboEvcH.jpg",
               "type": "series"
             },
             {
               "id": 73586,
               "title": "Yellowstone",
-              "poster": "https://image.tmdb.org/t/p/w300/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
               "type": "series"
             },
             {
               "id": 222766,
               "title": "The Day of the Jackal",
-              "poster": "https://image.tmdb.org/t/p/w300/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
               "type": "series"
             },
             {
               "id": 124364,
               "title": "FROM",
-              "poster": "https://image.tmdb.org/t/p/w300/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
               "type": "series"
             },
             {
-              "id": 154084,
-              "title": "Citadel Honey Bunny",
-              "poster": "https://image.tmdb.org/t/p/w300/lzZ9J2FOsaq1DCuD7k2f4ogbXdD.jpg",
-              "type": "series"
-            },
-            {
-              "id": 37854,
-              "title": "One Piece",
-              "poster": "https://image.tmdb.org/t/p/w300/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
-              "type": "series"
-            },
-            {
-              "id": 199318,
-              "title": "Bad Sisters",
-              "poster": "https://image.tmdb.org/t/p/w300/z63D1Y8udrrFOhLFCT9YElcTr0w.jpg",
-              "type": "series"
-            },
-            {
-              "id": 30984,
-              "title": "Bleach",
-              "poster": "https://image.tmdb.org/t/p/w300/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-              "type": "series"
-            },
-            {
-              "id": 273081,
-              "title": "Don't Come Home",
-              "poster": "https://image.tmdb.org/t/p/w300/mtIm0qbFnQ3oqqDrVpPTJDS6EZK.jpg",
-              "type": "series"
-            },
-            {
-              "id": 236449,
-              "title": "Bank Under Siege",
-              "poster": "https://image.tmdb.org/t/p/w300/6QeR0OoO8lqsLG2c6hzVPSu9bVF.jpg",
+              "id": 157741,
+              "title": "Landman",
+              "poster": "https://image.tmdb.org/t/p//w300/rxWtATtTdwx0ERQjQ7BtVOMyq5r.jpg",
               "type": "series"
             },
             {
               "id": 153312,
               "title": "Tulsa King",
-              "poster": "https://image.tmdb.org/t/p/w300/zMFAdj30K84Sz90bCd6ePwiAO37.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/zMFAdj30K84Sz90bCd6ePwiAO37.jpg",
               "type": "series"
             },
             {
-              "id": 65942,
-              "title": "Re:ZERO -Starting Life in Another World-",
-              "poster": "https://image.tmdb.org/t/p/w300/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
+              "id": 37854,
+              "title": "One Piece",
+              "poster": "https://image.tmdb.org/t/p//w300/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+              "type": "series"
+            },
+            {
+              "id": 77169,
+              "title": "Cobra Kai",
+              "poster": "https://image.tmdb.org/t/p//w300/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+              "type": "series"
+            },
+            {
+              "id": 30984,
+              "title": "Bleach",
+              "poster": "https://image.tmdb.org/t/p//w300/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
               "type": "series"
             },
             {
               "id": 113962,
               "title": "Lioness",
-              "poster": "https://image.tmdb.org/t/p/w300/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/ajaXSmdAlYYhnvx1EIsvpfN949y.jpg",
               "type": "series"
             },
             {
-              "id": 218631,
-              "title": "Gangnam B-Side",
-              "poster": "https://image.tmdb.org/t/p/w300/4aeXrl8cSzUt8FHjqsHyoyZUox3.jpg",
+              "id": 274260,
+              "title": "Romance in the Alley",
+              "poster": "https://image.tmdb.org/t/p//w300/kKEGxNzMDkF09lniLvLSRh7Vuff.jpg",
               "type": "series"
             },
             {
-              "id": 100757,
-              "title": "Outer Banks",
-              "poster": "https://image.tmdb.org/t/p/w300/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+              "id": 245256,
+              "title": "Say Nothing",
+              "poster": "https://image.tmdb.org/t/p//w300/bAF3gTGuFNDdzGUIAnDqi5nbFf3.jpg",
+              "type": "series"
+            },
+            {
+              "id": 243084,
+              "title": "Love Game in Eastern Fantasy",
+              "poster": "https://image.tmdb.org/t/p//w300/cvbYjugS8OPtgPu9J7A9VjKjnsA.jpg",
+              "type": "series"
+            },
+            {
+              "id": 240411,
+              "title": "Dan Da Dan",
+              "poster": "https://image.tmdb.org/t/p//w300/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+              "type": "series"
+            },
+            {
+              "id": 199318,
+              "title": "Bad Sisters",
+              "poster": "https://image.tmdb.org/t/p//w300/2koAJYgO1AT73a0xA8Zg30Brw98.jpg",
               "type": "series"
             },
             {
               "id": 147050,
               "title": "Disclaimer",
-              "poster": "https://image.tmdb.org/t/p/w300/6TdW4T2EsnhXrPQccB8szK93UhF.jpg",
-              "type": "series"
-            },
-            {
-              "id": 1429,
-              "title": "Attack on Titan",
-              "poster": "https://image.tmdb.org/t/p/w300/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
-              "type": "series"
-            },
-            {
-              "id": 1399,
-              "title": "Game of Thrones",
-              "poster": "https://image.tmdb.org/t/p/w300/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-              "type": "series"
-            },
-            {
-              "id": 138501,
-              "title": "Agatha All Along",
-              "poster": "https://image.tmdb.org/t/p/w300/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/6TdW4T2EsnhXrPQccB8szK93UhF.jpg",
               "type": "series"
             }
           ]
@@ -141,123 +141,123 @@
           "title": "Populære serier",
           "items": [
             {
-              "id": 81329,
-              "title": "Chronicles of the Sun",
-              "poster": "https://image.tmdb.org/t/p/w300/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
-              "type": "series"
-            },
-            {
               "id": 94722,
               "title": "Tagesschau",
-              "poster": "https://image.tmdb.org/t/p/w300/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-              "type": "series"
-            },
-            {
-              "id": 218145,
-              "title": "Mom for rent",
-              "poster": "https://image.tmdb.org/t/p/w300/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
-              "type": "series"
-            },
-            {
-              "id": 112470,
-              "title": "Ici tout commence",
-              "poster": "https://image.tmdb.org/t/p/w300/yuTHx38jpogXovMhqNatvozigMJ.jpg",
-              "type": "series"
-            },
-            {
-              "id": 257064,
-              "title": "Volta por Cima",
-              "poster": "https://image.tmdb.org/t/p/w300/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
               "type": "series"
             },
             {
               "id": 231344,
               "title": "Los 50",
-              "poster": "https://image.tmdb.org/t/p/w300/5u4lYLk0kDf6XTUIENhXkaUV2jQ.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/5u4lYLk0kDf6XTUIENhXkaUV2jQ.jpg",
               "type": "series"
             },
             {
-              "id": 256121,
-              "title": "Lavender Fields",
-              "poster": "https://image.tmdb.org/t/p/w300/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+              "id": 240440,
+              "title": "The Story of Pearl Girl",
+              "poster": "https://image.tmdb.org/t/p//w300/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
               "type": "series"
             },
             {
-              "id": 256429,
-              "title": "Pamilya Sagrado",
-              "poster": "https://image.tmdb.org/t/p/w300/hlRhstt3Du57qm4A30w7RkHqEXg.jpg",
-              "type": "series"
-            },
-            {
-              "id": 124364,
-              "title": "FROM",
-              "poster": "https://image.tmdb.org/t/p/w300/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
-              "type": "series"
-            },
-            {
-              "id": 4682,
-              "title": "Strictly Come Dancing: It Takes Two",
-              "poster": "https://image.tmdb.org/t/p/w300/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
-              "type": "series"
-            },
-            {
-              "id": 248890,
-              "title": "Ready Steady Cook South Africa",
-              "poster": "https://image.tmdb.org/t/p/w300/30xX4IMbgnMbQwo76xM4BOSokZO.jpg",
+              "id": 94605,
+              "title": "Arcane",
+              "poster": "https://image.tmdb.org/t/p//w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
               "type": "series"
             },
             {
               "id": 18770,
               "title": "Gran Hermano",
-              "poster": "https://image.tmdb.org/t/p/w300/gQ0Emh2LT047Fip2HWye3NkrkQB.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/gQ0Emh2LT047Fip2HWye3NkrkQB.jpg",
               "type": "series"
             },
             {
-              "id": 73586,
-              "title": "Yellowstone",
-              "poster": "https://image.tmdb.org/t/p/w300/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
+              "id": 124364,
+              "title": "FROM",
+              "poster": "https://image.tmdb.org/t/p//w300/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
               "type": "series"
             },
             {
-              "id": 236594,
-              "title": "Big Brother: Late & Live",
-              "poster": "https://image.tmdb.org/t/p/w300/4neSwqJjJLtK6Zuqpx5j70z5CPs.jpg",
+              "id": 257064,
+              "title": "Volta por Cima",
+              "poster": "https://image.tmdb.org/t/p//w300/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
+              "type": "series"
+            },
+            {
+              "id": 274136,
+              "title": "Stardance XIII ...kolem dokola",
+              "poster": "https://image.tmdb.org/t/p//w300/iJPk8DSr2NVpfeFxembWxROqQNW.jpg",
+              "type": "series"
+            },
+            {
+              "id": 218145,
+              "title": "Mom for rent",
+              "poster": "https://image.tmdb.org/t/p//w300/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
               "type": "series"
             },
             {
               "id": 237478,
               "title": "Crazy About You",
-              "poster": "https://image.tmdb.org/t/p/w300/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg",
+              "type": "series"
+            },
+            {
+              "id": 77169,
+              "title": "Cobra Kai",
+              "poster": "https://image.tmdb.org/t/p//w300/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+              "type": "series"
+            },
+            {
+              "id": 112470,
+              "title": "Ici tout commence",
+              "poster": "https://image.tmdb.org/t/p//w300/yuTHx38jpogXovMhqNatvozigMJ.jpg",
+              "type": "series"
+            },
+            {
+              "id": 242722,
+              "title": "Shrimad Ramayan",
+              "poster": "https://image.tmdb.org/t/p//w300/aCDK83ykQYnQGFOTfiLjnoqXv1b.jpg",
+              "type": "series"
+            },
+            {
+              "id": 91759,
+              "title": "Come Home Love: Lo and Behold",
+              "poster": "https://image.tmdb.org/t/p//w300/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+              "type": "series"
+            },
+            {
+              "id": 125988,
+              "title": "Silo",
+              "poster": "https://image.tmdb.org/t/p//w300/tlliQuCupf8fpTH7RAor3aKMGy.jpg",
+              "type": "series"
+            },
+            {
+              "id": 4682,
+              "title": "Strictly Come Dancing: It Takes Two",
+              "poster": "https://image.tmdb.org/t/p//w300/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
               "type": "series"
             },
             {
               "id": 249010,
               "title": "Kelders van Geheime",
-              "poster": "https://image.tmdb.org/t/p/w300/vf1I0G5jICTstI1EXxb9Oqq80TU.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/vf1I0G5jICTstI1EXxb9Oqq80TU.jpg",
               "type": "series"
             },
             {
-              "id": 237243,
-              "title": "Big Brother",
-              "poster": "https://image.tmdb.org/t/p/w300/Tg2g7XvPLWsEbNH0hM1jxMfOmk.jpg",
+              "id": 73586,
+              "title": "Yellowstone",
+              "poster": "https://image.tmdb.org/t/p//w300/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
               "type": "series"
             },
             {
-              "id": 261033,
-              "title": "The Agent",
-              "poster": "https://image.tmdb.org/t/p/w300/qUtgaa43jTELs0Tdw55aIukt9yn.jpg",
+              "id": 248890,
+              "title": "Ready Steady Cook South Africa",
+              "poster": "https://image.tmdb.org/t/p//w300/30xX4IMbgnMbQwo76xM4BOSokZO.jpg",
               "type": "series"
             },
             {
-              "id": 237019,
-              "title": "Big Brother: Live Stream",
-              "poster": "https://image.tmdb.org/t/p/w300/me84uR1iE9SoSl6tZo1iO9OYKIt.jpg",
-              "type": "series"
-            },
-            {
-              "id": 243084,
-              "title": "Love Game in Eastern Fantasy",
-              "poster": "https://image.tmdb.org/t/p/w300/cvbYjugS8OPtgPu9J7A9VjKjnsA.jpg",
+              "id": 247885,
+              "title": "Papás por Conveniencia",
+              "poster": "https://image.tmdb.org/t/p//w300/y7yIu9PKx2WTphhYgbBq9C1RNzV.jpg",
               "type": "series"
             }
           ]
@@ -268,121 +268,121 @@
             {
               "id": 1396,
               "title": "Breaking Bad",
-              "poster": "https://image.tmdb.org/t/p/w300/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
               "type": "series"
             },
             {
               "id": 94954,
               "title": "Hazbin Hotel",
-              "poster": "https://image.tmdb.org/t/p/w300/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
               "type": "series"
             },
             {
               "id": 209867,
               "title": "Frieren: Beyond Journey's End",
-              "poster": "https://image.tmdb.org/t/p/w300/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
               "type": "series"
             },
             {
               "id": 94605,
               "title": "Arcane",
-              "poster": "https://image.tmdb.org/t/p/w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
               "type": "series"
             },
             {
               "id": 246,
               "title": "Avatar: The Last Airbender",
-              "poster": "https://image.tmdb.org/t/p/w300/9RQhVb3r3mCMqYVhLoCu4EvuipP.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/9RQhVb3r3mCMqYVhLoCu4EvuipP.jpg",
               "type": "series"
             },
             {
               "id": 37854,
               "title": "One Piece",
-              "poster": "https://image.tmdb.org/t/p/w300/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
               "type": "series"
             },
             {
               "id": 31911,
               "title": "Fullmetal Alchemist: Brotherhood",
-              "poster": "https://image.tmdb.org/t/p/w300/8H4ej2NpujYVBPsW2smmzC8d2xU.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/8H4ej2NpujYVBPsW2smmzC8d2xU.jpg",
               "type": "series"
             },
             {
               "id": 60625,
               "title": "Rick and Morty",
-              "poster": "https://image.tmdb.org/t/p/w300/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
               "type": "series"
             },
             {
               "id": 60059,
               "title": "Better Call Saul",
-              "poster": "https://image.tmdb.org/t/p/w300/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg",
               "type": "series"
             },
             {
               "id": 87108,
               "title": "Chernobyl",
-              "poster": "https://image.tmdb.org/t/p/w300/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
               "type": "series"
             },
             {
               "id": 221851,
               "title": "Marry My Husband",
-              "poster": "https://image.tmdb.org/t/p/w300/y2hvE76S6Me0uhYEQ1P8lGf7Wm0.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/y2hvE76S6Me0uhYEQ1P8lGf7Wm0.jpg",
               "type": "series"
             },
             {
               "id": 70785,
               "title": "Anne with an E",
-              "poster": "https://image.tmdb.org/t/p/w300/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
               "type": "series"
             },
             {
               "id": 92685,
               "title": "The Owl House",
-              "poster": "https://image.tmdb.org/t/p/w300/zhdy3PcNVE15wj1wrxn45ARZBnx.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/zhdy3PcNVE15wj1wrxn45ARZBnx.jpg",
               "type": "series"
             },
             {
               "id": 1429,
               "title": "Attack on Titan",
-              "poster": "https://image.tmdb.org/t/p/w300/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
               "type": "series"
             },
             {
               "id": 135157,
               "title": "Alchemy of Souls",
-              "poster": "https://image.tmdb.org/t/p/w300/q2IiPRSXPOZ6qVRj36WRAYEQyHs.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/q2IiPRSXPOZ6qVRj36WRAYEQyHs.jpg",
               "type": "series"
             },
             {
               "id": 85937,
               "title": "Demon Slayer: Kimetsu no Yaiba",
-              "poster": "https://image.tmdb.org/t/p/w300/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
               "type": "series"
             },
             {
               "id": 42705,
               "title": "Fighting Spirit",
-              "poster": "https://image.tmdb.org/t/p/w300/qC4taY6yB9BWJ8IxcbnXR8yUS4o.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/qC4taY6yB9BWJ8IxcbnXR8yUS4o.jpg",
               "type": "series"
             },
             {
               "id": 1398,
               "title": "The Sopranos",
-              "poster": "https://image.tmdb.org/t/p/w300/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
               "type": "series"
             },
             {
               "id": 62741,
               "title": "Kamisama Kiss",
-              "poster": "https://image.tmdb.org/t/p/w300/5E7GL8KxpFemEFl3Lv8Fu4RuSwa.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/5E7GL8KxpFemEFl3Lv8Fu4RuSwa.jpg",
               "type": "series"
             },
             {
-              "id": 95557,
-              "title": "INVINCIBLE",
-              "poster": "https://image.tmdb.org/t/p/w300/dMOpdkrDC5dQxqNydgKxXjBKyAc.jpg",
+              "id": 65930,
+              "title": "My Hero Academia",
+              "poster": "https://image.tmdb.org/t/p//w300/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
               "type": "series"
             }
           ]
@@ -391,123 +391,123 @@
           "title": "Kommende serier",
           "items": [
             {
-              "id": 81329,
-              "title": "Chronicles of the Sun",
-              "poster": "https://image.tmdb.org/t/p/w300/t6jVlbPMtZOJoAOfeoR4yQmnjXM.jpg",
-              "type": "series"
-            },
-            {
-              "id": 218145,
-              "title": "Mom for rent",
-              "poster": "https://image.tmdb.org/t/p/w300/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
-              "type": "series"
-            },
-            {
-              "id": 112470,
-              "title": "Ici tout commence",
-              "poster": "https://image.tmdb.org/t/p/w300/yuTHx38jpogXovMhqNatvozigMJ.jpg",
-              "type": "series"
-            },
-            {
-              "id": 4682,
-              "title": "Strictly Come Dancing: It Takes Two",
-              "poster": "https://image.tmdb.org/t/p/w300/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
-              "type": "series"
-            },
-            {
-              "id": 248890,
-              "title": "Ready Steady Cook South Africa",
-              "poster": "https://image.tmdb.org/t/p/w300/30xX4IMbgnMbQwo76xM4BOSokZO.jpg",
-              "type": "series"
-            },
-            {
-              "id": 249010,
-              "title": "Kelders van Geheime",
-              "poster": "https://image.tmdb.org/t/p/w300/vf1I0G5jICTstI1EXxb9Oqq80TU.jpg",
-              "type": "series"
-            },
-            {
               "id": 94722,
               "title": "Tagesschau",
-              "poster": "https://image.tmdb.org/t/p/w300/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-              "type": "series"
-            },
-            {
-              "id": 252373,
-              "title": "A Promessa",
-              "poster": "https://image.tmdb.org/t/p/w300/uptgxt2apx5wwWItQzqL0HwhjZC.jpg",
-              "type": "series"
-            },
-            {
-              "id": 36361,
-              "title": "Ulice",
-              "poster": "https://image.tmdb.org/t/p/w300/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
-              "type": "series"
-            },
-            {
-              "id": 231344,
-              "title": "Los 50",
-              "poster": "https://image.tmdb.org/t/p/w300/5u4lYLk0kDf6XTUIENhXkaUV2jQ.jpg",
-              "type": "series"
-            },
-            {
-              "id": 255150,
-              "title": "Pituca Sin Lucas",
-              "poster": "https://image.tmdb.org/t/p/w300/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
-              "type": "series"
-            },
-            {
-              "id": 257064,
-              "title": "Volta por Cima",
-              "poster": "https://image.tmdb.org/t/p/w300/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
-              "type": "series"
-            },
-            {
-              "id": 256121,
-              "title": "Lavender Fields",
-              "poster": "https://image.tmdb.org/t/p/w300/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
-              "type": "series"
-            },
-            {
-              "id": 256429,
-              "title": "Pamilya Sagrado",
-              "poster": "https://image.tmdb.org/t/p/w300/hlRhstt3Du57qm4A30w7RkHqEXg.jpg",
-              "type": "series"
-            },
-            {
-              "id": 206559,
-              "title": "Binnelanders",
-              "poster": "https://image.tmdb.org/t/p/w300/3bzECfllho8PphdYujLUIuhncJD.jpg",
-              "type": "series"
-            },
-            {
-              "id": 124364,
-              "title": "FROM",
-              "poster": "https://image.tmdb.org/t/p/w300/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
-              "type": "series"
-            },
-            {
-              "id": 72879,
-              "title": "Tomorrow Is Ours",
-              "poster": "https://image.tmdb.org/t/p/w300/zMWldNZF0wS3L5XkDVFHxYhclcL.jpg",
-              "type": "series"
-            },
-            {
-              "id": 235484,
-              "title": "Suidooster",
-              "poster": "https://image.tmdb.org/t/p/w300/naCgSiacvV685kait6fBvhVhdce.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
               "type": "series"
             },
             {
               "id": 18770,
               "title": "Gran Hermano",
-              "poster": "https://image.tmdb.org/t/p/w300/gQ0Emh2LT047Fip2HWye3NkrkQB.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/gQ0Emh2LT047Fip2HWye3NkrkQB.jpg",
               "type": "series"
             },
             {
-              "id": 45789,
-              "title": "Sturm der Liebe",
-              "poster": "https://image.tmdb.org/t/p/w300/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+              "id": 94605,
+              "title": "Arcane",
+              "poster": "https://image.tmdb.org/t/p//w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+              "type": "series"
+            },
+            {
+              "id": 124364,
+              "title": "FROM",
+              "poster": "https://image.tmdb.org/t/p//w300/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+              "type": "series"
+            },
+            {
+              "id": 240440,
+              "title": "The Story of Pearl Girl",
+              "poster": "https://image.tmdb.org/t/p//w300/rggdEAQkad1SFGJUg48tlhjWSXa.jpg",
+              "type": "series"
+            },
+            {
+              "id": 231344,
+              "title": "Los 50",
+              "poster": "https://image.tmdb.org/t/p//w300/5u4lYLk0kDf6XTUIENhXkaUV2jQ.jpg",
+              "type": "series"
+            },
+            {
+              "id": 274136,
+              "title": "Stardance XIII ...kolem dokola",
+              "poster": "https://image.tmdb.org/t/p//w300/iJPk8DSr2NVpfeFxembWxROqQNW.jpg",
+              "type": "series"
+            },
+            {
+              "id": 73586,
+              "title": "Yellowstone",
+              "poster": "https://image.tmdb.org/t/p//w300/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
+              "type": "series"
+            },
+            {
+              "id": 257064,
+              "title": "Volta por Cima",
+              "poster": "https://image.tmdb.org/t/p//w300/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
+              "type": "series"
+            },
+            {
+              "id": 218145,
+              "title": "Mom for rent",
+              "poster": "https://image.tmdb.org/t/p//w300/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+              "type": "series"
+            },
+            {
+              "id": 237478,
+              "title": "Crazy About You",
+              "poster": "https://image.tmdb.org/t/p//w300/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg",
+              "type": "series"
+            },
+            {
+              "id": 112470,
+              "title": "Ici tout commence",
+              "poster": "https://image.tmdb.org/t/p//w300/yuTHx38jpogXovMhqNatvozigMJ.jpg",
+              "type": "series"
+            },
+            {
+              "id": 256121,
+              "title": "Lavender Fields",
+              "poster": "https://image.tmdb.org/t/p//w300/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+              "type": "series"
+            },
+            {
+              "id": 242722,
+              "title": "Shrimad Ramayan",
+              "poster": "https://image.tmdb.org/t/p//w300/aCDK83ykQYnQGFOTfiLjnoqXv1b.jpg",
+              "type": "series"
+            },
+            {
+              "id": 235484,
+              "title": "Suidooster",
+              "poster": "https://image.tmdb.org/t/p//w300/naCgSiacvV685kait6fBvhVhdce.jpg",
+              "type": "series"
+            },
+            {
+              "id": 91759,
+              "title": "Come Home Love: Lo and Behold",
+              "poster": "https://image.tmdb.org/t/p//w300/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+              "type": "series"
+            },
+            {
+              "id": 125988,
+              "title": "Silo",
+              "poster": "https://image.tmdb.org/t/p//w300/tlliQuCupf8fpTH7RAor3aKMGy.jpg",
+              "type": "series"
+            },
+            {
+              "id": 4682,
+              "title": "Strictly Come Dancing: It Takes Two",
+              "poster": "https://image.tmdb.org/t/p//w300/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
+              "type": "series"
+            },
+            {
+              "id": 249010,
+              "title": "Kelders van Geheime",
+              "poster": "https://image.tmdb.org/t/p//w300/vf1I0G5jICTstI1EXxb9Oqq80TU.jpg",
+              "type": "series"
+            },
+            {
+              "id": 248890,
+              "title": "Ready Steady Cook South Africa",
+              "poster": "https://image.tmdb.org/t/p//w300/30xX4IMbgnMbQwo76xM4BOSokZO.jpg",
               "type": "series"
             }
           ]
@@ -518,371 +518,121 @@
             {
               "id": 95897,
               "title": "Overflow",
-              "poster": "https://image.tmdb.org/t/p/w300/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
               "type": "series"
             },
             {
               "id": 236994,
               "title": "Dragon Ball DAIMA",
-              "poster": "https://image.tmdb.org/t/p/w300/cIDPZMGsiVHkHA6HPJmEmGcgyyw.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/cIDPZMGsiVHkHA6HPJmEmGcgyyw.jpg",
               "type": "series"
             },
             {
               "id": 240411,
               "title": "Dan Da Dan",
-              "poster": "https://image.tmdb.org/t/p/w300/bOPmmOXj33bxVW5DoWabkCLn6vE.jpg",
-              "type": "series"
-            },
-            {
-              "id": 57706,
-              "title": "Ranma ½",
-              "poster": "https://image.tmdb.org/t/p/w300/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
               "type": "series"
             },
             {
               "id": 131041,
               "title": "BLUE LOCK",
-              "poster": "https://image.tmdb.org/t/p/w300/fT9W86KFA9Khy2hIbkfClI8IYDH.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/fT9W86KFA9Khy2hIbkfClI8IYDH.jpg",
+              "type": "series"
+            },
+            {
+              "id": 99466,
+              "title": "Yarichin Bitch Club",
+              "poster": "https://image.tmdb.org/t/p//w300/lz9FZVmb4zoy6L9of47atKz8uAE.jpg",
               "type": "series"
             },
             {
               "id": 95479,
               "title": "Jujutsu Kaisen",
-              "poster": "https://image.tmdb.org/t/p/w300/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
               "type": "series"
             },
             {
-              "id": 65942,
-              "title": "Re:ZERO -Starting Life in Another World-",
-              "poster": "https://image.tmdb.org/t/p/w300/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
-              "type": "series"
-            },
-            {
-              "id": 30984,
-              "title": "Bleach",
-              "poster": "https://image.tmdb.org/t/p/w300/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-              "type": "series"
-            },
-            {
-              "id": 218843,
-              "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
-              "poster": "https://image.tmdb.org/t/p/w300/6SWVJvCIC9B16u6wASZ8FEaNssz.jpg",
+              "id": 57706,
+              "title": "Ranma ½",
+              "poster": "https://image.tmdb.org/t/p//w300/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
               "type": "series"
             },
             {
               "id": 46392,
               "title": "Duel Masters",
-              "poster": "https://image.tmdb.org/t/p/w300/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
               "type": "series"
             },
             {
-              "id": 65733,
-              "title": "Doraemon",
-              "poster": "https://image.tmdb.org/t/p/w300/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-              "type": "series"
-            },
-            {
-              "id": 60572,
-              "title": "Pokémon",
-              "poster": "https://image.tmdb.org/t/p/w300/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
-              "type": "series"
-            },
-            {
-              "id": 12971,
-              "title": "Dragon Ball Z",
-              "poster": "https://image.tmdb.org/t/p/w300/6VKOfL6ihwTiB5Vibq6QTfzhxA6.jpg",
+              "id": 30984,
+              "title": "Bleach",
+              "poster": "https://image.tmdb.org/t/p//w300/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
               "type": "series"
             },
             {
               "id": 205050,
               "title": "Shangri-La Frontier",
-              "poster": "https://image.tmdb.org/t/p/w300/aCGdpgNkgz66R1winFkTFsMAhlC.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/aCGdpgNkgz66R1winFkTFsMAhlC.jpg",
               "type": "series"
             },
             {
-              "id": 70998,
-              "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-              "poster": "https://image.tmdb.org/t/p/w300/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+              "id": 12971,
+              "title": "Dragon Ball Z",
+              "poster": "https://image.tmdb.org/t/p//w300/6VKOfL6ihwTiB5Vibq6QTfzhxA6.jpg",
               "type": "series"
             },
             {
-              "id": 31910,
-              "title": "Naruto Shippūden",
-              "poster": "https://image.tmdb.org/t/p/w300/kV27j3Nz4d5z8u6mN3EJw9RiLg2.jpg",
+              "id": 65733,
+              "title": "Doraemon",
+              "poster": "https://image.tmdb.org/t/p//w300/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+              "type": "series"
+            },
+            {
+              "id": 60572,
+              "title": "Pokémon",
+              "poster": "https://image.tmdb.org/t/p//w300/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+              "type": "series"
+            },
+            {
+              "id": 119495,
+              "title": "The Eminence in Shadow",
+              "poster": "https://image.tmdb.org/t/p//w300/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
+              "type": "series"
+            },
+            {
+              "id": 53787,
+              "title": "Aria",
+              "poster": "https://image.tmdb.org/t/p//w300/5g6Tv4VnmEYgw23N4xw6unPYukX.jpg",
+              "type": "series"
+            },
+            {
+              "id": 31572,
+              "title": "Lupin the Third",
+              "poster": "https://image.tmdb.org/t/p//w300/aywOqgw5opNykCW4R8os1liPVnq.jpg",
               "type": "series"
             },
             {
               "id": 46260,
               "title": "Naruto",
-              "poster": "https://image.tmdb.org/t/p/w300/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
               "type": "series"
             },
             {
-              "id": 120089,
-              "title": "SPY x FAMILY",
-              "poster": "https://image.tmdb.org/t/p/w300/3r4LYFuXrg3G8fepysr4xSLWnQL.jpg",
+              "id": 218843,
+              "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+              "poster": "https://image.tmdb.org/t/p//w300/6SWVJvCIC9B16u6wASZ8FEaNssz.jpg",
               "type": "series"
             },
             {
-              "id": 46298,
-              "title": "Hunter x Hunter",
-              "poster": "https://image.tmdb.org/t/p/w300/ucpgmUR1h5Te1BYegKItoPjOeF7.jpg",
+              "id": 70998,
+              "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+              "poster": "https://image.tmdb.org/t/p//w300/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
               "type": "series"
             },
             {
               "id": 57911,
               "title": "Doraemon",
-              "poster": "https://image.tmdb.org/t/p/w300/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
-              "type": "series"
-            }
-          ]
-        },
-        {
-          "title": "Komedieserier",
-          "items": [
-            {
-              "id": 218145,
-              "title": "Mom for rent",
-              "poster": "https://image.tmdb.org/t/p/w300/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
-              "type": "series"
-            },
-            {
-              "id": 257064,
-              "title": "Volta por Cima",
-              "poster": "https://image.tmdb.org/t/p/w300/nyN8R0P1Hqwq7ksJz4O2BIAUd4W.jpg",
-              "type": "series"
-            },
-            {
-              "id": 36361,
-              "title": "Ulice",
-              "poster": "https://image.tmdb.org/t/p/w300/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
-              "type": "series"
-            },
-            {
-              "id": 91759,
-              "title": "Come Home Love: Lo and Behold",
-              "poster": "https://image.tmdb.org/t/p/w300/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-              "type": "series"
-            },
-            {
-              "id": 255150,
-              "title": "Pituca Sin Lucas",
-              "poster": "https://image.tmdb.org/t/p/w300/cjqJqODyUbul2GZL7ti2B5SVv7I.jpg",
-              "type": "series"
-            },
-            {
-              "id": 262831,
-              "title": "My Merry Marriage",
-              "poster": "https://image.tmdb.org/t/p/w300/lp7uJ6tZ9k8m7kW75hIAOUafXr4.jpg",
-              "type": "series"
-            },
-            {
-              "id": 247885,
-              "title": "Papás por Conveniencia",
-              "poster": "https://image.tmdb.org/t/p/w300/y7yIu9PKx2WTphhYgbBq9C1RNzV.jpg",
-              "type": "series"
-            },
-            {
-              "id": 63770,
-              "title": "The Late Show with Stephen Colbert",
-              "poster": "https://image.tmdb.org/t/p/w300/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
-              "type": "series"
-            },
-            {
-              "id": 59941,
-              "title": "The Tonight Show Starring Jimmy Fallon",
-              "poster": "https://image.tmdb.org/t/p/w300/g4amxJvtpnY79J77xeamnAEUO8r.jpg",
-              "type": "series"
-            },
-            {
-              "id": 95897,
-              "title": "Overflow",
-              "poster": "https://image.tmdb.org/t/p/w300/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
-              "type": "series"
-            },
-            {
-              "id": 261791,
-              "title": "Omusubi",
-              "poster": "https://image.tmdb.org/t/p/w300/tK855sva67LB7opmPW4JHn1c5VI.jpg",
-              "type": "series"
-            },
-            {
-              "id": 236994,
-              "title": "Dragon Ball DAIMA",
-              "poster": "https://image.tmdb.org/t/p/w300/cIDPZMGsiVHkHA6HPJmEmGcgyyw.jpg",
-              "type": "series"
-            },
-            {
-              "id": 79744,
-              "title": "The Rookie",
-              "poster": "https://image.tmdb.org/t/p/w300/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg",
-              "type": "series"
-            },
-            {
-              "id": 34307,
-              "title": "Shameless",
-              "poster": "https://image.tmdb.org/t/p/w300/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
-              "type": "series"
-            },
-            {
-              "id": 456,
-              "title": "The Simpsons",
-              "poster": "https://image.tmdb.org/t/p/w300/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
-              "type": "series"
-            },
-            {
-              "id": 2224,
-              "title": "The Daily Show",
-              "poster": "https://image.tmdb.org/t/p/w300/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-              "type": "series"
-            },
-            {
-              "id": 156899,
-              "title": "Houkago",
-              "poster": "https://image.tmdb.org/t/p/w300/5hhJXYEjgHTzGw3CWGaGhG7tAXr.jpg",
-              "type": "series"
-            },
-            {
-              "id": 1408,
-              "title": "House",
-              "poster": "https://image.tmdb.org/t/p/w300/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
-              "type": "series"
-            },
-            {
-              "id": 240411,
-              "title": "Dan Da Dan",
-              "poster": "https://image.tmdb.org/t/p/w300/bOPmmOXj33bxVW5DoWabkCLn6vE.jpg",
-              "type": "series"
-            },
-            {
-              "id": 60625,
-              "title": "Rick and Morty",
-              "poster": "https://image.tmdb.org/t/p/w300/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
-              "type": "series"
-            }
-          ]
-        },
-        {
-          "title": "Action og eventyrserier",
-          "items": [
-            {
-              "id": 256121,
-              "title": "Lavender Fields",
-              "poster": "https://image.tmdb.org/t/p/w300/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
-              "type": "series"
-            },
-            {
-              "id": 256429,
-              "title": "Pamilya Sagrado",
-              "poster": "https://image.tmdb.org/t/p/w300/hlRhstt3Du57qm4A30w7RkHqEXg.jpg",
-              "type": "series"
-            },
-            {
-              "id": 261033,
-              "title": "The Agent",
-              "poster": "https://image.tmdb.org/t/p/w300/qUtgaa43jTELs0Tdw55aIukt9yn.jpg",
-              "type": "series"
-            },
-            {
-              "id": 242931,
-              "title": "Pulang Araw",
-              "poster": "https://image.tmdb.org/t/p/w300/2zbaRzgieKiHYkTGztQUzrAYbgb.jpg",
-              "type": "series"
-            },
-            {
-              "id": 247885,
-              "title": "Papás por Conveniencia",
-              "poster": "https://image.tmdb.org/t/p/w300/y7yIu9PKx2WTphhYgbBq9C1RNzV.jpg",
-              "type": "series"
-            },
-            {
-              "id": 94605,
-              "title": "Arcane",
-              "poster": "https://image.tmdb.org/t/p/w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
-              "type": "series"
-            },
-            {
-              "id": 4614,
-              "title": "NCIS",
-              "poster": "https://image.tmdb.org/t/p/w300/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-              "type": "series"
-            },
-            {
-              "id": 2288,
-              "title": "Prison Break",
-              "poster": "https://image.tmdb.org/t/p/w300/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
-              "type": "series"
-            },
-            {
-              "id": 1399,
-              "title": "Game of Thrones",
-              "poster": "https://image.tmdb.org/t/p/w300/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-              "type": "series"
-            },
-            {
-              "id": 100757,
-              "title": "Outer Banks",
-              "poster": "https://image.tmdb.org/t/p/w300/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-              "type": "series"
-            },
-            {
-              "id": 60625,
-              "title": "Rick and Morty",
-              "poster": "https://image.tmdb.org/t/p/w300/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
-              "type": "series"
-            },
-            {
-              "id": 84773,
-              "title": "The Lord of the Rings: The Rings of Power",
-              "poster": "https://image.tmdb.org/t/p/w300/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg",
-              "type": "series"
-            },
-            {
-              "id": 236994,
-              "title": "Dragon Ball DAIMA",
-              "poster": "https://image.tmdb.org/t/p/w300/cIDPZMGsiVHkHA6HPJmEmGcgyyw.jpg",
-              "type": "series"
-            },
-            {
-              "id": 240411,
-              "title": "Dan Da Dan",
-              "poster": "https://image.tmdb.org/t/p/w300/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
-              "type": "series"
-            },
-            {
-              "id": 44217,
-              "title": "Vikings",
-              "poster": "https://image.tmdb.org/t/p/w300/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-              "type": "series"
-            },
-            {
-              "id": 1402,
-              "title": "The Walking Dead",
-              "poster": "https://image.tmdb.org/t/p/w300/n7PVu0hSz2sAsVekpOIoCnkWlbn.jpg",
-              "type": "series"
-            },
-            {
-              "id": 34860,
-              "title": "Ninja Boy Rantaro",
-              "poster": "https://image.tmdb.org/t/p/w300/raKlXyICQBeTxYavErIRybR6g8d.jpg",
-              "type": "series"
-            },
-            {
-              "id": 4607,
-              "title": "Lost",
-              "poster": "https://image.tmdb.org/t/p/w300/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-              "type": "series"
-            },
-            {
-              "id": 66732,
-              "title": "Stranger Things",
-              "poster": "https://image.tmdb.org/t/p/w300/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-              "type": "series"
-            },
-            {
-              "id": 65942,
-              "title": "Re:ZERO -Starting Life in Another World-",
-              "poster": "https://image.tmdb.org/t/p/w300/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
               "type": "series"
             }
           ]
@@ -891,373 +641,498 @@
           "title": "Sci-Fi & fantasyserier",
           "items": [
             {
+              "id": 94605,
+              "title": "Arcane",
+              "poster": "https://image.tmdb.org/t/p//w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+              "type": "series"
+            },
+            {
               "id": 124364,
               "title": "FROM",
-              "poster": "https://image.tmdb.org/t/p/w300/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+              "type": "series"
+            },
+            {
+              "id": 125988,
+              "title": "Silo",
+              "poster": "https://image.tmdb.org/t/p//w300/tlliQuCupf8fpTH7RAor3aKMGy.jpg",
               "type": "series"
             },
             {
               "id": 243084,
               "title": "Love Game in Eastern Fantasy",
-              "poster": "https://image.tmdb.org/t/p/w300/cvbYjugS8OPtgPu9J7A9VjKjnsA.jpg",
-              "type": "series"
-            },
-            {
-              "id": 94605,
-              "title": "Arcane",
-              "poster": "https://image.tmdb.org/t/p/w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
-              "type": "series"
-            },
-            {
-              "id": 239389,
-              "title": "Fangs of Fortune",
-              "poster": "https://image.tmdb.org/t/p/w300/ifugPKhZOjmTwj9y1nNGhOSfPmi.jpg",
-              "type": "series"
-            },
-            {
-              "id": 1622,
-              "title": "Supernatural",
-              "poster": "https://image.tmdb.org/t/p/w300/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/cvbYjugS8OPtgPu9J7A9VjKjnsA.jpg",
               "type": "series"
             },
             {
               "id": 236994,
               "title": "Dragon Ball DAIMA",
-              "poster": "https://image.tmdb.org/t/p/w300/cIDPZMGsiVHkHA6HPJmEmGcgyyw.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/cIDPZMGsiVHkHA6HPJmEmGcgyyw.jpg",
+              "type": "series"
+            },
+            {
+              "id": 239389,
+              "title": "Fangs of Fortune",
+              "poster": "https://image.tmdb.org/t/p//w300/ifugPKhZOjmTwj9y1nNGhOSfPmi.jpg",
               "type": "series"
             },
             {
               "id": 1399,
               "title": "Game of Thrones",
-              "poster": "https://image.tmdb.org/t/p/w300/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-              "type": "series"
-            },
-            {
-              "id": 273081,
-              "title": "Don't Come Home",
-              "poster": "https://image.tmdb.org/t/p/w300/mtIm0qbFnQ3oqqDrVpPTJDS6EZK.jpg",
-              "type": "series"
-            },
-            {
-              "id": 63174,
-              "title": "Lucifer",
-              "poster": "https://image.tmdb.org/t/p/w300/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
-              "type": "series"
-            },
-            {
-              "id": 138501,
-              "title": "Agatha All Along",
-              "poster": "https://image.tmdb.org/t/p/w300/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg",
-              "type": "series"
-            },
-            {
-              "id": 84773,
-              "title": "The Lord of the Rings: The Rings of Power",
-              "poster": "https://image.tmdb.org/t/p/w300/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg",
-              "type": "series"
-            },
-            {
-              "id": 95057,
-              "title": "Superman & Lois",
-              "poster": "https://image.tmdb.org/t/p/w300/hoWkpACsrLgv4QMT4XCDrzoPdWN.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
               "type": "series"
             },
             {
               "id": 240411,
               "title": "Dan Da Dan",
-              "poster": "https://image.tmdb.org/t/p/w300/bOPmmOXj33bxVW5DoWabkCLn6vE.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
               "type": "series"
             },
             {
-              "id": 60625,
-              "title": "Rick and Morty",
-              "poster": "https://image.tmdb.org/t/p/w300/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+              "id": 95057,
+              "title": "Superman & Lois",
+              "poster": "https://image.tmdb.org/t/p//w300/hoWkpACsrLgv4QMT4XCDrzoPdWN.jpg",
               "type": "series"
             },
             {
-              "id": 1402,
-              "title": "The Walking Dead",
-              "poster": "https://image.tmdb.org/t/p/w300/n7PVu0hSz2sAsVekpOIoCnkWlbn.jpg",
-              "type": "series"
-            },
-            {
-              "id": 57706,
-              "title": "Ranma ½",
-              "poster": "https://image.tmdb.org/t/p/w300/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
-              "type": "series"
-            },
-            {
-              "id": 66732,
-              "title": "Stranger Things",
-              "poster": "https://image.tmdb.org/t/p/w300/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-              "type": "series"
-            },
-            {
-              "id": 95479,
-              "title": "Jujutsu Kaisen",
-              "poster": "https://image.tmdb.org/t/p/w300/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-              "type": "series"
-            },
-            {
-              "id": 65942,
-              "title": "Re:ZERO -Starting Life in Another World-",
-              "poster": "https://image.tmdb.org/t/p/w300/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
-              "type": "series"
-            },
-            {
-              "id": 247721,
-              "title": "Teacup",
-              "poster": "https://image.tmdb.org/t/p/w300/cP5zuQvWAFrgWptS0iXvDI3iND.jpg",
-              "type": "series"
-            }
-          ]
-        },
-        {
-          "title": "Western serier",
-          "items": [
-            {
-              "id": 73586,
-              "title": "Yellowstone",
-              "poster": "https://image.tmdb.org/t/p/w300/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
-              "type": "series"
-            },
-            {
-              "id": 2875,
-              "title": "MacGyver",
-              "poster": "https://image.tmdb.org/t/p/w300/7q4u6lXXQR2wcP2FnvH9PpZ7Qir.jpg",
-              "type": "series"
-            },
-            {
-              "id": 63247,
-              "title": "Westworld",
-              "poster": "https://image.tmdb.org/t/p/w300/8MfgyFHf7XEboZJPZXCIDqqiz6e.jpg",
-              "type": "series"
-            },
-            {
-              "id": 243396,
-              "title": "Territory",
-              "poster": "https://image.tmdb.org/t/p/w300/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
-              "type": "series"
-            },
-            {
-              "id": 1018,
-              "title": "Bonanza",
-              "poster": "https://image.tmdb.org/t/p/w300/y2jYBuTrC62hneBRs92LwxavMoV.jpg",
-              "type": "series"
-            },
-            {
-              "id": 157744,
-              "title": "1923",
-              "poster": "https://image.tmdb.org/t/p/w300/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
-              "type": "series"
-            },
-            {
-              "id": 43901,
-              "title": "Longmire",
-              "poster": "https://image.tmdb.org/t/p/w300/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
-              "type": "series"
-            },
-            {
-              "id": 1401,
-              "title": "Hell on Wheels",
-              "poster": "https://image.tmdb.org/t/p/w300/hK6C1Iimyw52ToE3d8WFFUh9Vn1.jpg",
-              "type": "series"
-            },
-            {
-              "id": 118357,
-              "title": "1883",
-              "poster": "https://image.tmdb.org/t/p/w300/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
-              "type": "series"
-            },
-            {
-              "id": 1781,
-              "title": "Little House on the Prairie",
-              "poster": "https://image.tmdb.org/t/p/w300/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
-              "type": "series"
-            },
-            {
-              "id": 73544,
-              "title": "Warrior",
-              "poster": "https://image.tmdb.org/t/p/w300/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
-              "type": "series"
-            },
-            {
-              "id": 953,
-              "title": "Maverick",
-              "poster": "https://image.tmdb.org/t/p/w300/psVbZjMHt9f9X7EIks9IQdCMZke.jpg",
-              "type": "series"
-            },
-            {
-              "id": 4681,
-              "title": "Zorro",
-              "poster": "https://image.tmdb.org/t/p/w300/3NYCvY6TEgjbJc9xYrgH98qNeMy.jpg",
-              "type": "series"
-            },
-            {
-              "id": 13859,
-              "title": "The Rifleman",
-              "poster": "https://image.tmdb.org/t/p/w300/8ot9vYfLvada8uWCE5f5et2mZo5.jpg",
-              "type": "series"
-            },
-            {
-              "id": 6081,
-              "title": "Wagon Train",
-              "poster": "https://image.tmdb.org/t/p/w300/csC6kMTKWmOcy9nKZEgdwd7Frb9.jpg",
-              "type": "series"
-            },
-            {
-              "id": 4324,
-              "title": "Dr. Quinn, Medicine Woman",
-              "poster": "https://image.tmdb.org/t/p/w300/rF32uo83bzezkEUQ8VGarbCJi32.jpg",
-              "type": "series"
-            },
-            {
-              "id": 61865,
-              "title": "When Calls the Heart",
-              "poster": "https://image.tmdb.org/t/p/w300/bPjZGRnQvJ3L2y2Caae89Rdh6dx.jpg",
-              "type": "series"
-            },
-            {
-              "id": 11577,
-              "title": "The Big Valley",
-              "poster": "https://image.tmdb.org/t/p/w300/5J323H8Dl0dX6IEsMXhaxcLIQW5.jpg",
-              "type": "series"
-            },
-            {
-              "id": 10180,
-              "title": "The Virginian",
-              "poster": "https://image.tmdb.org/t/p/w300/oAbCE44r6wtmAnfzZI2SxyeaBmW.jpg",
-              "type": "series"
-            },
-            {
-              "id": 3772,
-              "title": "Walker, Texas Ranger",
-              "poster": "https://image.tmdb.org/t/p/w300/lldKpGEOlHJXMkb1pi7s7xCExmX.jpg",
-              "type": "series"
-            }
-          ]
-        },
-        {
-          "title": "Krimi-serier",
-          "items": [
-            {
-              "id": 72879,
-              "title": "Tomorrow Is Ours",
-              "poster": "https://image.tmdb.org/t/p/w300/zMWldNZF0wS3L5XkDVFHxYhclcL.jpg",
-              "type": "series"
-            },
-            {
-              "id": 194764,
-              "title": "The Penguin",
-              "poster": "https://image.tmdb.org/t/p/w300/1nj7OQcRNTs8tg4FjUVekxcs1HJ.jpg",
-              "type": "series"
-            },
-            {
-              "id": 153312,
-              "title": "Tulsa King",
-              "poster": "https://image.tmdb.org/t/p/w300/zMFAdj30K84Sz90bCd6ePwiAO37.jpg",
-              "type": "series"
-            },
-            {
-              "id": 4614,
-              "title": "NCIS",
-              "poster": "https://image.tmdb.org/t/p/w300/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-              "type": "series"
-            },
-            {
-              "id": 2734,
-              "title": "Law & Order: Special Victims Unit",
-              "poster": "https://image.tmdb.org/t/p/w300/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg",
-              "type": "series"
-            },
-            {
-              "id": 2288,
-              "title": "Prison Break",
-              "poster": "https://image.tmdb.org/t/p/w300/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
-              "type": "series"
-            },
-            {
-              "id": 79744,
-              "title": "The Rookie",
-              "poster": "https://image.tmdb.org/t/p/w300/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg",
-              "type": "series"
-            },
-            {
-              "id": 764,
-              "title": "Midsomer Murders",
-              "poster": "https://image.tmdb.org/t/p/w300/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
-              "type": "series"
-            },
-            {
-              "id": 1396,
-              "title": "Breaking Bad",
-              "poster": "https://image.tmdb.org/t/p/w300/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-              "type": "series"
-            },
-            {
-              "id": 1405,
-              "title": "Dexter",
-              "poster": "https://image.tmdb.org/t/p/w300/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
-              "type": "series"
-            },
-            {
-              "id": 549,
-              "title": "Law & Order",
-              "poster": "https://image.tmdb.org/t/p/w300/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg",
-              "type": "series"
-            },
-            {
-              "id": 4057,
-              "title": "Criminal Minds",
-              "poster": "https://image.tmdb.org/t/p/w300/wLMQebhTApmn4F6Fzg6FovdwVvL.jpg",
+              "id": 1622,
+              "title": "Supernatural",
+              "poster": "https://image.tmdb.org/t/p//w300/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
               "type": "series"
             },
             {
               "id": 63174,
               "title": "Lucifer",
-              "poster": "https://image.tmdb.org/t/p/w300/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+              "poster": "https://image.tmdb.org/t/p//w300/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
               "type": "series"
             },
             {
-              "id": 46952,
-              "title": "The Blacklist",
-              "poster": "https://image.tmdb.org/t/p/w300/r935SMphvXppx5bJjbIBNx02fwc.jpg",
+              "id": 84773,
+              "title": "The Lord of the Rings: The Rings of Power",
+              "poster": "https://image.tmdb.org/t/p//w300/mYLOqiStMxDK3fYZFirgrMt8z5d.jpg",
               "type": "series"
             },
             {
-              "id": 58841,
-              "title": "Chicago P.D.",
-              "poster": "https://image.tmdb.org/t/p/w300/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg",
+              "id": 60625,
+              "title": "Rick and Morty",
+              "poster": "https://image.tmdb.org/t/p//w300/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
               "type": "series"
             },
             {
-              "id": 1911,
-              "title": "Bones",
-              "poster": "https://image.tmdb.org/t/p/w300/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+              "id": 1402,
+              "title": "The Walking Dead",
+              "poster": "https://image.tmdb.org/t/p//w300/n7PVu0hSz2sAsVekpOIoCnkWlbn.jpg",
               "type": "series"
             },
             {
-              "id": 40663,
-              "title": "AIBOU: Tokyo Detective Duo",
-              "poster": "https://image.tmdb.org/t/p/w300/8u8rCCeuBufMQ1VlGX0lruhDaPR.jpg",
+              "id": 1413,
+              "title": "American Horror Story",
+              "poster": "https://image.tmdb.org/t/p//w300/5LLG9bjq0i7V5N4UfRhnab8zHK4.jpg",
               "type": "series"
             },
             {
-              "id": 5920,
-              "title": "The Mentalist",
-              "poster": "https://image.tmdb.org/t/p/w300/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+              "id": 95479,
+              "title": "Jujutsu Kaisen",
+              "poster": "https://image.tmdb.org/t/p//w300/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
               "type": "series"
             },
             {
-              "id": 60574,
-              "title": "Peaky Blinders",
-              "poster": "https://image.tmdb.org/t/p/w300/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+              "id": 66732,
+              "title": "Stranger Things",
+              "poster": "https://image.tmdb.org/t/p//w300/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
               "type": "series"
             },
             {
-              "id": 71790,
-              "title": "S.W.A.T.",
-              "poster": "https://image.tmdb.org/t/p/w300/1rTEcLsnOoKXfDdGlbg0RHDvoaE.jpg",
+              "id": 57706,
+              "title": "Ranma ½",
+              "poster": "https://image.tmdb.org/t/p//w300/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
+              "type": "series"
+            },
+            {
+              "id": 46392,
+              "title": "Duel Masters",
+              "poster": "https://image.tmdb.org/t/p//w300/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
+              "type": "series"
+            },
+            {
+              "id": 30984,
+              "title": "Bleach",
+              "poster": "https://image.tmdb.org/t/p//w300/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+              "type": "series"
+            }
+          ]
+        },
+        {
+          "title": "Action og eventyrserier",
+          "items": [
+            {
+              "id": 94605,
+              "title": "Arcane",
+              "poster": "https://image.tmdb.org/t/p//w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+              "type": "series"
+            },
+            {
+              "id": 77169,
+              "title": "Cobra Kai",
+              "poster": "https://image.tmdb.org/t/p//w300/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+              "type": "series"
+            },
+            {
+              "id": 256121,
+              "title": "Lavender Fields",
+              "poster": "https://image.tmdb.org/t/p//w300/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+              "type": "series"
+            },
+            {
+              "id": 247885,
+              "title": "Papás por Conveniencia",
+              "poster": "https://image.tmdb.org/t/p//w300/y7yIu9PKx2WTphhYgbBq9C1RNzV.jpg",
+              "type": "series"
+            },
+            {
+              "id": 261033,
+              "title": "The Agent",
+              "poster": "https://image.tmdb.org/t/p//w300/qUtgaa43jTELs0Tdw55aIukt9yn.jpg",
+              "type": "series"
+            },
+            {
+              "id": 1399,
+              "title": "Game of Thrones",
+              "poster": "https://image.tmdb.org/t/p//w300/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+              "type": "series"
+            },
+            {
+              "id": 1412,
+              "title": "Arrow",
+              "poster": "https://image.tmdb.org/t/p//w300/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+              "type": "series"
+            },
+            {
+              "id": 236994,
+              "title": "Dragon Ball DAIMA",
+              "poster": "https://image.tmdb.org/t/p//w300/cIDPZMGsiVHkHA6HPJmEmGcgyyw.jpg",
+              "type": "series"
+            },
+            {
+              "id": 240411,
+              "title": "Dan Da Dan",
+              "poster": "https://image.tmdb.org/t/p//w300/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+              "type": "series"
+            },
+            {
+              "id": 2288,
+              "title": "Prison Break",
+              "poster": "https://image.tmdb.org/t/p//w300/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+              "type": "series"
+            },
+            {
+              "id": 4614,
+              "title": "NCIS",
+              "poster": "https://image.tmdb.org/t/p//w300/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+              "type": "series"
+            },
+            {
+              "id": 242931,
+              "title": "Pulang Araw",
+              "poster": "https://image.tmdb.org/t/p//w300/2zbaRzgieKiHYkTGztQUzrAYbgb.jpg",
+              "type": "series"
+            },
+            {
+              "id": 1402,
+              "title": "The Walking Dead",
+              "poster": "https://image.tmdb.org/t/p//w300/n7PVu0hSz2sAsVekpOIoCnkWlbn.jpg",
+              "type": "series"
+            },
+            {
+              "id": 100757,
+              "title": "Outer Banks",
+              "poster": "https://image.tmdb.org/t/p//w300/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+              "type": "series"
+            },
+            {
+              "id": 222766,
+              "title": "The Day of the Jackal",
+              "poster": "https://image.tmdb.org/t/p//w300/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+              "type": "series"
+            },
+            {
+              "id": 1411,
+              "title": "Person of Interest",
+              "poster": "https://image.tmdb.org/t/p//w300/6FuKOyJgViZXgMDOq9djFJLWPqX.jpg",
+              "type": "series"
+            },
+            {
+              "id": 19530,
+              "title": "Pili",
+              "poster": "https://image.tmdb.org/t/p//w300/c6CKmPSXO8omy0eHQX7TcEtz72i.jpg",
+              "type": "series"
+            },
+            {
+              "id": 2661,
+              "title": "Kamen Rider",
+              "poster": "https://image.tmdb.org/t/p//w300/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg",
+              "type": "series"
+            },
+            {
+              "id": 256429,
+              "title": "Pamilya Sagrado",
+              "poster": "https://image.tmdb.org/t/p//w300/hlRhstt3Du57qm4A30w7RkHqEXg.jpg",
+              "type": "series"
+            },
+            {
+              "id": 131041,
+              "title": "BLUE LOCK",
+              "poster": "https://image.tmdb.org/t/p//w300/fT9W86KFA9Khy2hIbkfClI8IYDH.jpg",
+              "type": "series"
+            }
+          ]
+        },
+        {
+          "title": "Animations serier",
+          "items": [
+            {
+              "id": 94605,
+              "title": "Arcane",
+              "poster": "https://image.tmdb.org/t/p//w300/abf8tHznhSvl9BAElD2cQeRr7do.jpg",
+              "type": "series"
+            },
+            {
+              "id": 95897,
+              "title": "Overflow",
+              "poster": "https://image.tmdb.org/t/p//w300/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+              "type": "series"
+            },
+            {
+              "id": 118546,
+              "title": "Clone High",
+              "poster": "https://image.tmdb.org/t/p//w300/qM5L944slfDJUmc9v47ixxdeSUX.jpg",
+              "type": "series"
+            },
+            {
+              "id": 236994,
+              "title": "Dragon Ball DAIMA",
+              "poster": "https://image.tmdb.org/t/p//w300/cIDPZMGsiVHkHA6HPJmEmGcgyyw.jpg",
+              "type": "series"
+            },
+            {
+              "id": 240411,
+              "title": "Dan Da Dan",
+              "poster": "https://image.tmdb.org/t/p//w300/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+              "type": "series"
+            },
+            {
+              "id": 456,
+              "title": "The Simpsons",
+              "poster": "https://image.tmdb.org/t/p//w300/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+              "type": "series"
+            },
+            {
+              "id": 99466,
+              "title": "Yarichin Bitch Club",
+              "poster": "https://image.tmdb.org/t/p//w300/lz9FZVmb4zoy6L9of47atKz8uAE.jpg",
+              "type": "series"
+            },
+            {
+              "id": 131041,
+              "title": "BLUE LOCK",
+              "poster": "https://image.tmdb.org/t/p//w300/fT9W86KFA9Khy2hIbkfClI8IYDH.jpg",
+              "type": "series"
+            },
+            {
+              "id": 60625,
+              "title": "Rick and Morty",
+              "poster": "https://image.tmdb.org/t/p//w300/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+              "type": "series"
+            },
+            {
+              "id": 95479,
+              "title": "Jujutsu Kaisen",
+              "poster": "https://image.tmdb.org/t/p//w300/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+              "type": "series"
+            },
+            {
+              "id": 34860,
+              "title": "Ninja Boy Rantaro",
+              "poster": "https://image.tmdb.org/t/p//w300/raKlXyICQBeTxYavErIRybR6g8d.jpg",
+              "type": "series"
+            },
+            {
+              "id": 46392,
+              "title": "Duel Masters",
+              "poster": "https://image.tmdb.org/t/p//w300/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
+              "type": "series"
+            },
+            {
+              "id": 65334,
+              "title": "Miraculous: Tales of Ladybug & Cat Noir",
+              "poster": "https://image.tmdb.org/t/p//w300/3bxuTGk0c98gQkgBcKzC6HxQ8B6.jpg",
+              "type": "series"
+            },
+            {
+              "id": 1434,
+              "title": "Family Guy",
+              "poster": "https://image.tmdb.org/t/p//w300/y0HUz4eUNUe3TeEd8fQWYazPaC7.jpg",
+              "type": "series"
+            },
+            {
+              "id": 57706,
+              "title": "Ranma ½",
+              "poster": "https://image.tmdb.org/t/p//w300/qb1R5iLZcjIgdDIfXFQXmJadQPI.jpg",
+              "type": "series"
+            },
+            {
+              "id": 53787,
+              "title": "Aria",
+              "poster": "https://image.tmdb.org/t/p//w300/5g6Tv4VnmEYgw23N4xw6unPYukX.jpg",
+              "type": "series"
+            },
+            {
+              "id": 218843,
+              "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+              "poster": "https://image.tmdb.org/t/p//w300/6SWVJvCIC9B16u6wASZ8FEaNssz.jpg",
+              "type": "series"
+            },
+            {
+              "id": 16656,
+              "title": "Fuse",
+              "poster": "https://image.tmdb.org/t/p//w300/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
+              "type": "series"
+            },
+            {
+              "id": 70998,
+              "title": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+              "poster": "https://image.tmdb.org/t/p//w300/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+              "type": "series"
+            },
+            {
+              "id": 205050,
+              "title": "Shangri-La Frontier",
+              "poster": "https://image.tmdb.org/t/p//w300/aCGdpgNkgz66R1winFkTFsMAhlC.jpg",
+              "type": "series"
+            }
+          ]
+        },
+        {
+          "title": "Dokumentar serier",
+          "items": [
+            {
+              "id": 13805,
+              "title": "A Girl's Guide to 21st Century Sex",
+              "poster": "https://image.tmdb.org/t/p//w300/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
+              "type": "series"
+            },
+            {
+              "id": 203599,
+              "title": "Scoop",
+              "poster": "https://image.tmdb.org/t/p//w300/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+              "type": "series"
+            },
+            {
+              "id": 16656,
+              "title": "Fuse",
+              "poster": "https://image.tmdb.org/t/p//w300/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
+              "type": "series"
+            },
+            {
+              "id": 4384,
+              "title": "Frontline",
+              "poster": "https://image.tmdb.org/t/p//w300/5Va5SzbaJe5Wd64caWfzspSA92L.jpg",
+              "type": "series"
+            },
+            {
+              "id": 195384,
+              "title": "Shin Nihon Fudoki",
+              "poster": "https://image.tmdb.org/t/p//w300/iTXgp44o1NcZ66RQdU9AtM5U1FK.jpg",
+              "type": "series"
+            },
+            {
+              "id": 2042,
+              "title": "Antiques Roadshow",
+              "poster": "https://image.tmdb.org/t/p//w300/hZnCNv58d7L0Ee3BZI3j2NSBtU.jpg",
+              "type": "series"
+            },
+            {
+              "id": 90,
+              "title": "Mayday",
+              "poster": "https://image.tmdb.org/t/p//w300/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+              "type": "series"
+            },
+            {
+              "id": 58581,
+              "title": "Antiques Road Trip",
+              "poster": "https://image.tmdb.org/t/p//w300/wBMFyk3SwOkBwoByEaGKeSvY5Ns.jpg",
+              "type": "series"
+            },
+            {
+              "id": 202979,
+              "title": "Welcome Back For An Extracurricular Lesson, Sempai",
+              "poster": "https://image.tmdb.org/t/p//w300/3Csu6Hk7FlFaepdUBT3FhCCLf6n.jpg",
+              "type": "series"
+            },
+            {
+              "id": 90412,
+              "title": "Makeover! Dramatic Before & After",
+              "poster": "https://image.tmdb.org/t/p//w300/ncDQ1nJqdlw6J4o1KZq8jb9LZuG.jpg",
+              "type": "series"
+            },
+            {
+              "id": 244043,
+              "title": "食贫道",
+              "poster": "https://image.tmdb.org/t/p//w300/mefDu7sNuNNvolUTrrW4y0se2Vo.jpg",
+              "type": "series"
+            },
+            {
+              "id": 55165,
+              "title": "The investigation was conducted",
+              "poster": "https://image.tmdb.org/t/p//w300/fTRRrjf3KPpiFx1knqPpvczZdf2.jpg",
+              "type": "series"
+            },
+            {
+              "id": 237020,
+              "title": "Lecture Room",
+              "poster": "https://image.tmdb.org/t/p//w300/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
+              "type": "series"
+            },
+            {
+              "id": 66130,
+              "title": "그것이 알고 싶다",
+              "poster": "https://image.tmdb.org/t/p//w300/pYCWmCNoKl7rJzK6VWiOZj7Xwmu.jpg",
+              "type": "series"
+            },
+            {
+              "id": 37656,
+              "title": "1066: The Battle for Middle Earth",
+              "poster": "https://image.tmdb.org/t/p//w300/6ExXTegt0TcCg2VGh2VLzNTU5Af.jpg",
+              "type": "series"
+            },
+            {
+              "id": 60603,
+              "title": "The Curse of Oak Island",
+              "poster": "https://image.tmdb.org/t/p//w300/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg",
+              "type": "series"
+            },
+            {
+              "id": 3562,
+              "title": "NOVA",
+              "poster": "https://image.tmdb.org/t/p//w300/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+              "type": "series"
+            },
+            {
+              "id": 274413,
+              "title": "Countdown: Paul vs. Tyson",
+              "poster": "https://image.tmdb.org/t/p//w300/fcd5aPfIhjgyAZpugUfASPqLymV.jpg",
+              "type": "series"
+            },
+            {
+              "id": 206296,
+              "title": "Golden Horse Awards",
+              "poster": "https://image.tmdb.org/t/p//w300/q9H3q7q99hIwMFmxaA9pVD8jdoU.jpg",
+              "type": "series"
+            },
+            {
+              "id": 1428,
+              "title": "MythBusters",
+              "poster": "https://image.tmdb.org/t/p//w300/9MxhqYvwx8FSb5cRWUWEDfpWSfo.jpg",
               "type": "series"
             }
           ]
